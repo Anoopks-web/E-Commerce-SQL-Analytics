@@ -1,0 +1,3001 @@
+﻿payment_id, order_id, payment_method, payment_status, payment_amount
+1,1,Cash,Paid,56137.24
+2,2,Net Banking,Paid,53172.52
+3,3,Cash,Paid,69329.7
+4,4,Net Banking,Paid,17842.21
+5,5,Debit Card,Paid,76788.53
+6,6,Credit Card,Paid,6350.09
+7,7,UPI,Paid,23160.57
+8,8,Credit Card,Paid,6892.09
+9,9,Net Banking,Paid,88891.22
+10,10,Net Banking,Paid,1362.9
+11,11,Net Banking,Paid,13613.06
+12,12,Credit Card,Paid,77697.22
+13,13,Credit Card,Paid,33019.68
+14,14,UPI,Refunded,18714.18
+15,15,Credit Card,Paid,49010.73
+16,16,Credit Card,Paid,3176.98
+17,17,Debit Card,Paid,52149.87
+18,18,Cash,Paid,89482.1
+19,19,Credit Card,Paid,42130.49
+20,20,Net Banking,Refunded,72003.58
+21,21,Credit Card,Paid,61560.79
+22,22,Credit Card,Paid,7765.24
+23,23,Debit Card,Paid,64549.34
+24,24,UPI,Paid,49165.74
+25,25,Cash,Refunded,42632.68
+26,26,Debit Card,Refunded,40592.26
+27,27,UPI,Paid,12654.09
+28,28,Net Banking,Paid,39485.76
+29,29,Credit Card,Paid,55292.56
+30,30,Credit Card,Paid,56741.99
+31,31,Debit Card,Paid,56336.09
+32,32,UPI,Paid,30081.92
+33,33,UPI,Paid,1943.34
+34,34,Debit Card,Paid,3202.79
+35,35,Credit Card,Paid,62070.61
+36,36,Credit Card,Paid,11855.27
+37,37,Net Banking,Refunded,62200.33
+38,38,Credit Card,Paid,1262.96
+39,39,Cash,Refunded,21884.25
+40,40,Credit Card,Paid,21012.97
+41,41,Debit Card,Paid,60369
+42,42,Credit Card,Paid,18014.98
+43,43,Cash,Paid,51816.11
+44,44,UPI,Paid,12996.66
+45,45,Net Banking,Paid,77842.85
+46,46,Net Banking,Paid,63938.94
+47,47,Cash,Paid,75668.97
+48,48,Debit Card,Paid,34879.98
+49,49,UPI,Paid,1129.7
+50,50,Debit Card,Paid,23105.25
+51,51,UPI,Refunded,6065.7
+52,52,Net Banking,Paid,39399.7
+53,53,Debit Card,Paid,684.29
+54,54,Cash,Paid,26326.44
+55,55,UPI,Paid,2764
+56,56,Cash,Paid,44235.19
+57,57,Credit Card,Paid,85099.76
+58,58,Debit Card,Paid,46560.47
+59,59,Debit Card,Paid,8901.57
+60,60,Net Banking,Paid,73685.04
+61,61,Net Banking,Paid,55490.06
+62,62,Credit Card,Paid,9154.78
+63,63,Debit Card,Paid,11258.56
+64,64,Credit Card,Paid,33711.26
+65,65,Cash,Paid,12244.37
+66,66,Cash,Paid,84209.72
+67,67,Net Banking,Paid,17621.66
+68,68,Debit Card,Paid,57345.7
+69,69,Debit Card,Paid,66693.25
+70,70,Debit Card,Paid,44875.88
+71,71,Cash,Paid,67229.84
+72,72,UPI,Paid,32962.68
+73,73,Credit Card,Paid,10688.29
+74,74,Net Banking,Paid,73591.3
+75,75,Cash,Paid,75183.71
+76,76,UPI,Paid,49829.05
+77,77,Debit Card,Paid,20128.1
+78,78,Credit Card,Refunded,47977.72
+79,79,Debit Card,Paid,2082.52
+80,80,Cash,Paid,72270.05
+81,81,Net Banking,Paid,927.28
+82,82,UPI,Paid,10860.64
+83,83,Debit Card,Paid,71994.76
+84,84,Cash,Paid,74465.51
+85,85,Debit Card,Paid,89251.39
+86,86,Debit Card,Paid,86378.3
+87,87,Debit Card,Paid,53784.28
+88,88,Net Banking,Paid,66359.76
+89,89,Cash,Paid,40033.03
+90,90,UPI,Paid,54771.84
+91,91,Cash,Paid,61351.56
+92,92,Debit Card,Paid,71834.04
+93,93,Credit Card,Paid,68346.07
+94,94,UPI,Paid,39961.03
+95,95,Cash,Paid,8172.35
+96,96,Debit Card,Paid,51427.84
+97,97,UPI,Paid,87127.79
+98,98,Debit Card,Paid,71879.9
+99,99,Credit Card,Paid,59438.99
+100,100,Net Banking,Paid,10730.83
+101,101,Net Banking,Paid,63926
+102,102,Credit Card,Paid,5752.67
+103,103,UPI,Paid,24724.83
+104,104,Cash,Paid,11952.45
+105,105,Credit Card,Paid,79964.56
+106,106,Net Banking,Paid,930.81
+107,107,UPI,Paid,25484.47
+108,108,Cash,Paid,67368.79
+109,109,Cash,Paid,54505.53
+110,110,Credit Card,Paid,79581.96
+111,111,Debit Card,Paid,42148.85
+112,112,Credit Card,Paid,62725.07
+113,113,Cash,Paid,19248.56
+114,114,Credit Card,Paid,79408.96
+115,115,Cash,Paid,46348.75
+116,116,Cash,Paid,77511.99
+117,117,Debit Card,Paid,58780.91
+118,118,Net Banking,Paid,69902.03
+119,119,Cash,Paid,35814.54
+120,120,Credit Card,Refunded,1067.2
+121,121,Cash,Paid,44830.8
+122,122,Debit Card,Paid,88225.55
+123,123,Debit Card,Paid,70430.49
+124,124,UPI,Paid,78298.48
+125,125,Net Banking,Refunded,76544.91
+126,126,Net Banking,Paid,52463.28
+127,127,Debit Card,Paid,12448.76
+128,128,Net Banking,Paid,25847.39
+129,129,UPI,Paid,74781.91
+130,130,Debit Card,Refunded,62136.42
+131,131,Cash,Paid,22678.86
+132,132,Debit Card,Paid,19074.03
+133,133,Cash,Paid,85945.99
+134,134,Cash,Paid,66747.26
+135,135,Net Banking,Paid,63452.64
+136,136,Net Banking,Paid,32939.52
+137,137,Net Banking,Paid,45812.27
+138,138,Cash,Paid,29888.95
+139,139,Debit Card,Paid,6762.29
+140,140,Debit Card,Paid,89640.98
+141,141,Credit Card,Paid,61043.99
+142,142,UPI,Paid,5393.99
+143,143,Net Banking,Paid,72631.42
+144,144,Credit Card,Paid,86169.95
+145,145,UPI,Refunded,28672.37
+146,146,Net Banking,Paid,44426.08
+147,147,Credit Card,Paid,52672.98
+148,148,Debit Card,Paid,64480.04
+149,149,Net Banking,Paid,1524.77
+150,150,Credit Card,Paid,52473.36
+151,151,UPI,Paid,85868
+152,152,Credit Card,Paid,65605.67
+153,153,Net Banking,Paid,83693.79
+154,154,Credit Card,Paid,28560.97
+155,155,Debit Card,Paid,28426.51
+156,156,Net Banking,Paid,72854.92
+157,157,UPI,Paid,14282
+158,158,Credit Card,Paid,17197.2
+159,159,Debit Card,Paid,24325.1
+160,160,UPI,Paid,38322.12
+161,161,Debit Card,Paid,52788.86
+162,162,UPI,Paid,33322.56
+163,163,UPI,Paid,82218.26
+164,164,UPI,Paid,37173.27
+165,165,Debit Card,Paid,17752.17
+166,166,Cash,Paid,84350.5
+167,167,Net Banking,Paid,24886.3
+168,168,Cash,Paid,10270.79
+169,169,Cash,Paid,50865.55
+170,170,Net Banking,Paid,8663.97
+171,171,UPI,Paid,61026.97
+172,172,Net Banking,Paid,75893.68
+173,173,Credit Card,Paid,66224.38
+174,174,Cash,Paid,15446.74
+175,175,UPI,Paid,58524.93
+176,176,Net Banking,Paid,33011.59
+177,177,UPI,Paid,50303.91
+178,178,Debit Card,Paid,84331.85
+179,179,Debit Card,Paid,73071.68
+180,180,Credit Card,Paid,4879.64
+181,181,Net Banking,Paid,63600.64
+182,182,Cash,Paid,45008.19
+183,183,Credit Card,Paid,72240.3
+184,184,Net Banking,Paid,21118.19
+185,185,Cash,Paid,77246.97
+186,186,Net Banking,Paid,5835.96
+187,187,Credit Card,Paid,3472.3
+188,188,Credit Card,Paid,36207.57
+189,189,Cash,Paid,85339.2
+190,190,Credit Card,Paid,1858.27
+191,191,Debit Card,Paid,13725.1
+192,192,Net Banking,Paid,85416.11
+193,193,UPI,Paid,9645.25
+194,194,Net Banking,Paid,39020.43
+195,195,Debit Card,Paid,2431
+196,196,UPI,Paid,61135.91
+197,197,Debit Card,Paid,18886.41
+198,198,Net Banking,Refunded,28047.68
+199,199,UPI,Paid,54042.2
+200,200,Cash,Paid,34600.61
+201,201,Credit Card,Paid,58520.09
+202,202,UPI,Paid,53058.51
+203,203,Net Banking,Paid,66734.75
+204,204,UPI,Paid,70552.74
+205,205,UPI,Paid,519.27
+206,206,Net Banking,Paid,43390.44
+207,207,Cash,Refunded,4078.5
+208,208,Credit Card,Paid,11595.32
+209,209,Debit Card,Paid,58817.39
+210,210,Debit Card,Paid,16610.25
+211,211,Net Banking,Paid,25960.65
+212,212,Net Banking,Paid,66259.83
+213,213,Credit Card,Paid,71098.95
+214,214,Credit Card,Paid,5873.91
+215,215,UPI,Paid,62459.37
+216,216,Credit Card,Paid,86410.72
+217,217,UPI,Paid,38098.54
+218,218,Net Banking,Paid,81167.85
+219,219,Credit Card,Paid,33101.03
+220,220,Net Banking,Paid,66736.45
+221,221,UPI,Paid,1478.74
+222,222,Debit Card,Paid,58311.89
+223,223,Debit Card,Paid,39764.48
+224,224,Credit Card,Paid,82538.38
+225,225,Cash,Paid,32752.31
+226,226,Net Banking,Paid,42080.14
+227,227,UPI,Paid,49406.71
+228,228,Cash,Paid,39904.24
+229,229,Net Banking,Paid,24750.84
+230,230,Net Banking,Paid,41395.89
+231,231,Cash,Paid,8051.03
+232,232,Credit Card,Paid,45161.05
+233,233,Cash,Paid,49254.3
+234,234,Cash,Paid,5798.32
+235,235,Net Banking,Paid,71759.41
+236,236,Net Banking,Refunded,61925.46
+237,237,UPI,Paid,23367.03
+238,238,UPI,Paid,30941.53
+239,239,UPI,Paid,58199
+240,240,Net Banking,Paid,30321.59
+241,241,Credit Card,Refunded,48984.56
+242,242,Net Banking,Paid,6962.08
+243,243,Cash,Paid,34206.5
+244,244,Credit Card,Paid,75478.8
+245,245,UPI,Paid,42119.23
+246,246,Debit Card,Paid,79246.52
+247,247,Credit Card,Paid,12278.19
+248,248,Debit Card,Paid,88473.45
+249,249,UPI,Paid,7763.56
+250,250,Cash,Paid,7901.25
+251,251,UPI,Paid,50206.11
+252,252,UPI,Refunded,47150.26
+253,253,Net Banking,Paid,42573.92
+254,254,Debit Card,Paid,43885.13
+255,255,UPI,Paid,15598.34
+256,256,Debit Card,Refunded,65290.44
+257,257,Net Banking,Paid,5521.9
+258,258,Net Banking,Paid,87761.26
+259,259,Credit Card,Paid,53860.1
+260,260,UPI,Paid,58436.07
+261,261,UPI,Paid,60371.27
+262,262,Cash,Paid,8515.69
+263,263,Net Banking,Refunded,83286.3
+264,264,Cash,Paid,4874.37
+265,265,Credit Card,Refunded,66400.76
+266,266,Debit Card,Refunded,1360.31
+267,267,Credit Card,Paid,59961.6
+268,268,Credit Card,Paid,61841.16
+269,269,UPI,Paid,63388.66
+270,270,Credit Card,Paid,7647.18
+271,271,Debit Card,Paid,55923.33
+272,272,Net Banking,Paid,81430.7
+273,273,Debit Card,Paid,24432.03
+274,274,Net Banking,Paid,57708.33
+275,275,Net Banking,Paid,29119.81
+276,276,Credit Card,Paid,67410.5
+277,277,Cash,Paid,31385.41
+278,278,Credit Card,Paid,68790.59
+279,279,Debit Card,Paid,5337.22
+280,280,Credit Card,Paid,10436.62
+281,281,Debit Card,Refunded,39840.52
+282,282,Credit Card,Paid,8634.53
+283,283,Cash,Paid,21680.48
+284,284,Net Banking,Paid,69131.33
+285,285,Cash,Paid,71721.06
+286,286,Net Banking,Paid,69498.74
+287,287,Net Banking,Paid,34325.05
+288,288,Cash,Refunded,69110.89
+289,289,UPI,Paid,29024.69
+290,290,Cash,Paid,72807.6
+291,291,Cash,Paid,59259.74
+292,292,Cash,Paid,27055.24
+293,293,Cash,Paid,45969.85
+294,294,Credit Card,Paid,55221.02
+295,295,Cash,Paid,86053.43
+296,296,UPI,Paid,36248.87
+297,297,Debit Card,Paid,60743.49
+298,298,Cash,Paid,29963.88
+299,299,Debit Card,Paid,50338.34
+300,300,Credit Card,Paid,33837.52
+301,301,UPI,Paid,87669.08
+302,302,UPI,Paid,9016.26
+303,303,UPI,Paid,82020.65
+304,304,Net Banking,Paid,86605.74
+305,305,Debit Card,Paid,80766.97
+306,306,UPI,Paid,53801.95
+307,307,Net Banking,Paid,22075.83
+308,308,UPI,Paid,10865.27
+309,309,Credit Card,Paid,73740.46
+310,310,Cash,Paid,58679.84
+311,311,Credit Card,Paid,1045.78
+312,312,Debit Card,Paid,13557.36
+313,313,Net Banking,Paid,14191.24
+314,314,Debit Card,Paid,59743.99
+315,315,Credit Card,Paid,76685.13
+316,316,Net Banking,Paid,74090.45
+317,317,UPI,Paid,82948.55
+318,318,UPI,Paid,64728.07
+319,319,Net Banking,Paid,76891.71
+320,320,Cash,Paid,87465.33
+321,321,UPI,Paid,25419.66
+322,322,Net Banking,Paid,26733.46
+323,323,Cash,Paid,86269.44
+324,324,Credit Card,Paid,82720.93
+325,325,Net Banking,Paid,7530.18
+326,326,UPI,Paid,16729.59
+327,327,Credit Card,Paid,72837.89
+328,328,Net Banking,Paid,56048.08
+329,329,Net Banking,Paid,40307.48
+330,330,Cash,Paid,55884.71
+331,331,Cash,Paid,41113.14
+332,332,Debit Card,Paid,41653.87
+333,333,Net Banking,Paid,25306.63
+334,334,Credit Card,Paid,68336.71
+335,335,Cash,Paid,25203.85
+336,336,Cash,Paid,83380.53
+337,337,Net Banking,Paid,89203.88
+338,338,Debit Card,Paid,89526.47
+339,339,Net Banking,Paid,86641.72
+340,340,Cash,Paid,30158.56
+341,341,Credit Card,Paid,19028.9
+342,342,Credit Card,Refunded,46579.14
+343,343,Cash,Paid,75674.57
+344,344,Cash,Paid,25984.95
+345,345,Debit Card,Paid,22043.38
+346,346,UPI,Paid,36818.98
+347,347,Net Banking,Paid,88312.6
+348,348,Credit Card,Paid,12508.45
+349,349,Net Banking,Refunded,78142.68
+350,350,Cash,Paid,2831.59
+351,351,Debit Card,Refunded,22933.39
+352,352,UPI,Paid,87111.7
+353,353,Debit Card,Paid,12079.37
+354,354,Net Banking,Refunded,21942.14
+355,355,Net Banking,Paid,86431.91
+356,356,Credit Card,Paid,6346.3
+357,357,Debit Card,Paid,25798.91
+358,358,UPI,Paid,37827.77
+359,359,Cash,Refunded,11966.25
+360,360,Credit Card,Paid,62958.01
+361,361,UPI,Paid,50316.78
+362,362,Debit Card,Paid,81583.51
+363,363,Cash,Paid,62816.82
+364,364,Net Banking,Paid,77600.42
+365,365,Debit Card,Paid,34090.8
+366,366,Cash,Paid,63865.98
+367,367,Cash,Paid,83729.28
+368,368,Credit Card,Paid,61355.38
+369,369,Cash,Paid,7119.58
+370,370,Cash,Paid,63528.89
+371,371,Cash,Paid,4022.87
+372,372,Cash,Paid,24744.05
+373,373,Cash,Paid,47479.7
+374,374,Cash,Paid,45284.69
+375,375,UPI,Paid,89116.32
+376,376,UPI,Refunded,29751.97
+377,377,Credit Card,Paid,60385.44
+378,378,Net Banking,Paid,73359.87
+379,379,Credit Card,Paid,8478.02
+380,380,UPI,Paid,19101.85
+381,381,Net Banking,Paid,18956.27
+382,382,Credit Card,Paid,47209
+383,383,Net Banking,Paid,70952.03
+384,384,Cash,Paid,49199.06
+385,385,Credit Card,Paid,63307.38
+386,386,Net Banking,Paid,42566.48
+387,387,Credit Card,Paid,88345.69
+388,388,Net Banking,Paid,864.41
+389,389,Debit Card,Paid,40560.57
+390,390,UPI,Refunded,39555.55
+391,391,Credit Card,Paid,36780.98
+392,392,Debit Card,Paid,74201.95
+393,393,Debit Card,Paid,73249.94
+394,394,Net Banking,Paid,43386.38
+395,395,Credit Card,Paid,15861.54
+396,396,Net Banking,Paid,77332.42
+397,397,UPI,Paid,45123.61
+398,398,Debit Card,Paid,5317.34
+399,399,Net Banking,Paid,47907.43
+400,400,Net Banking,Paid,19883.66
+401,401,Credit Card,Paid,20090.18
+402,402,Net Banking,Paid,15568.31
+403,403,Credit Card,Refunded,83073.45
+404,404,Credit Card,Refunded,71042.74
+405,405,Net Banking,Paid,29996.74
+406,406,Credit Card,Paid,47052.32
+407,407,Net Banking,Paid,88305.03
+408,408,UPI,Paid,58536.74
+409,409,Cash,Paid,37576.54
+410,410,Cash,Refunded,76886.66
+411,411,Debit Card,Paid,38092.92
+412,412,Credit Card,Paid,36155.86
+413,413,Debit Card,Paid,47629.62
+414,414,Debit Card,Refunded,34396.19
+415,415,Debit Card,Paid,46486.46
+416,416,Credit Card,Paid,67227.67
+417,417,Cash,Paid,18888.45
+418,418,Credit Card,Paid,76378.22
+419,419,Debit Card,Paid,25723.09
+420,420,Net Banking,Paid,48258.92
+421,421,Net Banking,Paid,2901.97
+422,422,Cash,Paid,80237.74
+423,423,Cash,Paid,23780.8
+424,424,Credit Card,Paid,61070.78
+425,425,Net Banking,Refunded,38130.6
+426,426,Debit Card,Paid,2455.44
+427,427,UPI,Paid,18807.71
+428,428,Cash,Paid,20517.39
+429,429,Credit Card,Paid,46195.2
+430,430,UPI,Paid,65004.26
+431,431,Cash,Paid,78082.92
+432,432,Cash,Paid,20378.95
+433,433,Cash,Paid,56322.52
+434,434,Cash,Refunded,69822.94
+435,435,Debit Card,Paid,60727.17
+436,436,Debit Card,Paid,73729.27
+437,437,Net Banking,Paid,75442.16
+438,438,Net Banking,Paid,41417.06
+439,439,Net Banking,Paid,44342.89
+440,440,Net Banking,Paid,6657.74
+441,441,Cash,Paid,33113.54
+442,442,Cash,Paid,33317.75
+443,443,Net Banking,Paid,60200.39
+444,444,Cash,Paid,30854.21
+445,445,Debit Card,Paid,33565.56
+446,446,Net Banking,Paid,29381.65
+447,447,UPI,Paid,12320.14
+448,448,Debit Card,Paid,40047.01
+449,449,Debit Card,Paid,78817.25
+450,450,Cash,Paid,80812.08
+451,451,Debit Card,Paid,31244.17
+452,452,Debit Card,Paid,12049.04
+453,453,Net Banking,Paid,13164.07
+454,454,Cash,Paid,80511.54
+455,455,Net Banking,Paid,15013.09
+456,456,UPI,Paid,58614.99
+457,457,UPI,Paid,55040.18
+458,458,Net Banking,Paid,27153.44
+459,459,Credit Card,Paid,26797.04
+460,460,Credit Card,Paid,5685.79
+461,461,Cash,Paid,42780.51
+462,462,UPI,Paid,79389.2
+463,463,Credit Card,Paid,46306.31
+464,464,Debit Card,Refunded,27226.64
+465,465,UPI,Paid,61583.22
+466,466,Debit Card,Paid,70783.92
+467,467,Credit Card,Paid,79061.38
+468,468,Net Banking,Paid,52572.63
+469,469,UPI,Paid,21249.58
+470,470,UPI,Paid,51955.94
+471,471,Debit Card,Paid,74099.84
+472,472,Debit Card,Paid,64743.18
+473,473,Cash,Paid,43194.11
+474,474,Net Banking,Refunded,5783.42
+475,475,Credit Card,Paid,54818.06
+476,476,Credit Card,Paid,72102.81
+477,477,UPI,Paid,29445.1
+478,478,UPI,Paid,49965.83
+479,479,Credit Card,Paid,18593.99
+480,480,Debit Card,Paid,23800.15
+481,481,Cash,Paid,42727.34
+482,482,Credit Card,Paid,69112.2
+483,483,Net Banking,Paid,80356.69
+484,484,Debit Card,Paid,8120.43
+485,485,UPI,Paid,73798.97
+486,486,Cash,Paid,13821.14
+487,487,Credit Card,Paid,8042.22
+488,488,UPI,Paid,45374.32
+489,489,Debit Card,Paid,8576.34
+490,490,Cash,Paid,50575.37
+491,491,Cash,Refunded,85585.68
+492,492,Cash,Paid,58131.82
+493,493,Debit Card,Paid,34372.2
+494,494,Cash,Paid,14453.16
+495,495,Cash,Paid,9960.01
+496,496,Credit Card,Paid,3538.2
+497,497,Cash,Paid,17539.74
+498,498,UPI,Paid,65517.29
+499,499,Net Banking,Paid,39971.5
+500,500,Net Banking,Paid,79325.84
+501,501,UPI,Paid,5128.96
+502,502,Credit Card,Paid,82042.14
+503,503,UPI,Paid,62263.12
+504,504,Net Banking,Paid,55768.74
+505,505,UPI,Paid,26363.43
+506,506,Credit Card,Paid,10347.7
+507,507,Credit Card,Paid,2356.49
+508,508,Cash,Paid,24737.05
+509,509,Net Banking,Refunded,33298.82
+510,510,Net Banking,Paid,7172.2
+511,511,Net Banking,Paid,69364.22
+512,512,Credit Card,Paid,41004.24
+513,513,Net Banking,Paid,32422.1
+514,514,Net Banking,Refunded,13936.54
+515,515,Net Banking,Paid,68104.47
+516,516,Net Banking,Paid,2640.94
+517,517,UPI,Paid,86383.39
+518,518,UPI,Paid,8626.13
+519,519,Net Banking,Paid,28596.51
+520,520,Credit Card,Paid,87896.87
+521,521,Net Banking,Paid,68444.39
+522,522,Net Banking,Paid,77416.32
+523,523,UPI,Paid,36084.68
+524,524,Net Banking,Paid,31279.69
+525,525,Net Banking,Paid,82285.56
+526,526,Credit Card,Paid,35930.02
+527,527,Net Banking,Paid,88817.3
+528,528,Debit Card,Paid,5616.09
+529,529,UPI,Refunded,47205.47
+530,530,UPI,Paid,52325.8
+531,531,Net Banking,Refunded,24909.04
+532,532,Debit Card,Paid,18051.7
+533,533,Net Banking,Refunded,19629.68
+534,534,Net Banking,Paid,30586.78
+535,535,Cash,Paid,26595.79
+536,536,Cash,Paid,62506.01
+537,537,Net Banking,Paid,78811.86
+538,538,Cash,Paid,30354.32
+539,539,Debit Card,Paid,44512.01
+540,540,Credit Card,Paid,82226.08
+541,541,Debit Card,Paid,61824.94
+542,542,UPI,Paid,66919.7
+543,543,Cash,Paid,19278.09
+544,544,Credit Card,Paid,85946.94
+545,545,Credit Card,Paid,82764.61
+546,546,Net Banking,Paid,70112.21
+547,547,Cash,Paid,48976.69
+548,548,Cash,Paid,64025.99
+549,549,Credit Card,Paid,75754.55
+550,550,Credit Card,Refunded,48010.45
+551,551,Cash,Paid,37184.15
+552,552,Debit Card,Paid,28214.72
+553,553,Debit Card,Paid,46698.28
+554,554,UPI,Paid,9114.36
+555,555,UPI,Paid,11985.17
+556,556,Credit Card,Paid,41325.95
+557,557,UPI,Paid,51885.34
+558,558,Debit Card,Paid,11228
+559,559,Debit Card,Paid,736.92
+560,560,Net Banking,Refunded,22999.6
+561,561,Debit Card,Paid,16290.16
+562,562,UPI,Paid,64107.13
+563,563,UPI,Paid,6820.44
+564,564,UPI,Paid,9447.38
+565,565,UPI,Paid,77419.36
+566,566,Net Banking,Paid,8312.54
+567,567,Debit Card,Refunded,67441.86
+568,568,Debit Card,Paid,30950.05
+569,569,Debit Card,Paid,34303.82
+570,570,Credit Card,Paid,16037.86
+571,571,Credit Card,Paid,34365.8
+572,572,Debit Card,Paid,45134.92
+573,573,Debit Card,Paid,72683.84
+574,574,Debit Card,Paid,56979.94
+575,575,Net Banking,Paid,76329.68
+576,576,Credit Card,Refunded,70977.26
+577,577,UPI,Paid,89325.12
+578,578,Credit Card,Paid,54207.34
+579,579,Credit Card,Paid,13951.24
+580,580,Cash,Paid,87190.07
+581,581,Credit Card,Paid,42600.42
+582,582,Net Banking,Paid,62234.76
+583,583,Net Banking,Paid,67013.89
+584,584,Debit Card,Paid,71866.47
+585,585,Cash,Paid,59333.38
+586,586,Net Banking,Paid,29438.52
+587,587,Credit Card,Paid,2226.4
+588,588,Cash,Paid,23499.81
+589,589,Debit Card,Paid,51750.73
+590,590,Credit Card,Paid,3273.22
+591,591,Debit Card,Paid,37244.13
+592,592,UPI,Paid,77095.09
+593,593,Debit Card,Paid,21877.16
+594,594,Net Banking,Paid,50708.97
+595,595,Net Banking,Refunded,73221.8
+596,596,Cash,Paid,15793.03
+597,597,Debit Card,Paid,29965.55
+598,598,Credit Card,Paid,78901.68
+599,599,Debit Card,Paid,53574.43
+600,600,Cash,Paid,55291.19
+601,601,UPI,Paid,29838.49
+602,602,Net Banking,Paid,88293.15
+603,603,Debit Card,Paid,75878.48
+604,604,Debit Card,Paid,76073.25
+605,605,UPI,Refunded,15419.48
+606,606,UPI,Paid,10368.47
+607,607,Debit Card,Paid,58457.98
+608,608,Debit Card,Paid,27751.16
+609,609,Credit Card,Paid,62831.45
+610,610,Net Banking,Paid,21310.87
+611,611,Credit Card,Paid,64130.41
+612,612,Cash,Paid,38203.87
+613,613,UPI,Paid,54661.74
+614,614,Net Banking,Paid,5055.97
+615,615,Credit Card,Paid,50189.86
+616,616,Debit Card,Paid,61573
+617,617,Credit Card,Paid,40527.9
+618,618,Cash,Paid,3973.58
+619,619,Debit Card,Paid,27365.68
+620,620,Credit Card,Paid,15883.6
+621,621,Credit Card,Paid,28410.12
+622,622,Cash,Paid,70909.64
+623,623,Credit Card,Paid,18418.79
+624,624,Debit Card,Paid,60802.91
+625,625,Cash,Paid,77392.24
+626,626,Credit Card,Paid,89421.12
+627,627,Debit Card,Paid,4630.52
+628,628,Net Banking,Paid,34238.63
+629,629,Cash,Paid,8898.31
+630,630,UPI,Paid,50564.98
+631,631,Net Banking,Paid,75270.53
+632,632,Cash,Paid,86392.79
+633,633,UPI,Paid,71198.53
+634,634,UPI,Paid,44041.42
+635,635,Debit Card,Paid,88999.44
+636,636,Net Banking,Paid,83992.32
+637,637,UPI,Paid,64216.99
+638,638,Credit Card,Paid,89942.46
+639,639,Debit Card,Paid,5713.45
+640,640,Debit Card,Paid,72081.92
+641,641,Cash,Paid,78622.7
+642,642,Debit Card,Paid,82576.99
+643,643,Net Banking,Paid,87315.12
+644,644,Debit Card,Paid,89999
+645,645,Net Banking,Paid,50493.24
+646,646,Cash,Refunded,41426.66
+647,647,Credit Card,Paid,50577.71
+648,648,UPI,Paid,30855.13
+649,649,Cash,Paid,14367.12
+650,650,Credit Card,Paid,74599.62
+651,651,Cash,Paid,68019.17
+652,652,Net Banking,Refunded,87451.55
+653,653,UPI,Paid,60026.23
+654,654,Credit Card,Paid,13611.71
+655,655,Cash,Paid,49573.45
+656,656,UPI,Paid,58298.87
+657,657,Cash,Paid,37065.09
+658,658,UPI,Paid,12283.67
+659,659,Net Banking,Paid,74671.04
+660,660,Cash,Paid,1163.48
+661,661,UPI,Refunded,75897.43
+662,662,UPI,Paid,73023.61
+663,663,Net Banking,Paid,47637.36
+664,664,Net Banking,Paid,82738.69
+665,665,Credit Card,Paid,67705.97
+666,666,UPI,Paid,15030.66
+667,667,Cash,Paid,51486.32
+668,668,Cash,Paid,21341.68
+669,669,Net Banking,Paid,14163.18
+670,670,Net Banking,Paid,44406.2
+671,671,Credit Card,Paid,77911.3
+672,672,Net Banking,Paid,55527.46
+673,673,Debit Card,Paid,71920.37
+674,674,Net Banking,Paid,73143.05
+675,675,Debit Card,Paid,12250.88
+676,676,Cash,Paid,61025.26
+677,677,Net Banking,Paid,46031.86
+678,678,Net Banking,Paid,89814.83
+679,679,UPI,Refunded,52092.31
+680,680,Credit Card,Paid,17686.64
+681,681,Net Banking,Refunded,68005.21
+682,682,Credit Card,Paid,87754.68
+683,683,Net Banking,Paid,5533.78
+684,684,Debit Card,Paid,59798.21
+685,685,Net Banking,Paid,15713.2
+686,686,UPI,Refunded,20274.45
+687,687,Debit Card,Paid,89918.79
+688,688,Net Banking,Refunded,69867.69
+689,689,Cash,Paid,20670.9
+690,690,Debit Card,Paid,31051.81
+691,691,Debit Card,Paid,42009.09
+692,692,Cash,Paid,11258.8
+693,693,Cash,Paid,18249.48
+694,694,Debit Card,Refunded,53541.86
+695,695,Net Banking,Paid,75698.44
+696,696,Cash,Paid,65182.67
+697,697,Net Banking,Paid,83784.11
+698,698,Debit Card,Paid,39272.45
+699,699,Debit Card,Paid,11917.81
+700,700,Cash,Paid,62834.54
+701,701,Credit Card,Paid,21009.74
+702,702,Debit Card,Paid,44907.13
+703,703,UPI,Paid,67657.09
+704,704,Net Banking,Paid,21207.06
+705,705,UPI,Paid,74262.33
+706,706,Debit Card,Paid,919.43
+707,707,UPI,Paid,13088.97
+708,708,Debit Card,Paid,18635.93
+709,709,Credit Card,Paid,18016.98
+710,710,Cash,Paid,61547.14
+711,711,Cash,Paid,79885.2
+712,712,UPI,Paid,25499.49
+713,713,Cash,Paid,11771.07
+714,714,Net Banking,Refunded,56446.54
+715,715,Cash,Paid,19955.11
+716,716,Debit Card,Paid,72144.93
+717,717,UPI,Paid,67820.87
+718,718,Net Banking,Paid,43133.41
+719,719,Net Banking,Paid,48769.73
+720,720,Debit Card,Paid,26832.58
+721,721,Credit Card,Paid,27852.54
+722,722,Cash,Paid,8898.56
+723,723,Credit Card,Paid,71302.07
+724,724,Credit Card,Refunded,39326.34
+725,725,Net Banking,Paid,64281.98
+726,726,Cash,Paid,18080.24
+727,727,Cash,Paid,38752.28
+728,728,Credit Card,Paid,18614.79
+729,729,Cash,Paid,47497.72
+730,730,Cash,Paid,3710.05
+731,731,Cash,Paid,81943
+732,732,UPI,Paid,77667.01
+733,733,Credit Card,Refunded,62496.7
+734,734,Cash,Paid,8785.9
+735,735,Debit Card,Paid,74237.45
+736,736,UPI,Paid,71868.74
+737,737,Net Banking,Refunded,11760.68
+738,738,Cash,Paid,39265.82
+739,739,UPI,Paid,36609.33
+740,740,Debit Card,Paid,36473.54
+741,741,Debit Card,Paid,44630.84
+742,742,Cash,Paid,74646.78
+743,743,Cash,Paid,38742.02
+744,744,UPI,Paid,32446.23
+745,745,Debit Card,Paid,21030.65
+746,746,Credit Card,Paid,13453.28
+747,747,Cash,Paid,13997.54
+748,748,Net Banking,Paid,68415.71
+749,749,Net Banking,Paid,26757.59
+750,750,Cash,Paid,20738.34
+751,751,UPI,Paid,30512.47
+752,752,Debit Card,Paid,18335.32
+753,753,Debit Card,Paid,70972.41
+754,754,Debit Card,Paid,39362.53
+755,755,Cash,Paid,18095.26
+756,756,Credit Card,Refunded,44306.85
+757,757,Credit Card,Paid,66528.28
+758,758,Credit Card,Paid,66346.23
+759,759,Credit Card,Paid,34401.2
+760,760,Net Banking,Paid,31777.88
+761,761,Credit Card,Paid,18678.43
+762,762,Debit Card,Paid,15550.06
+763,763,Cash,Paid,82655.74
+764,764,Net Banking,Paid,19480.29
+765,765,UPI,Refunded,60177.6
+766,766,UPI,Refunded,52349.35
+767,767,Net Banking,Paid,27422.02
+768,768,Net Banking,Paid,64883.77
+769,769,Credit Card,Paid,18946.18
+770,770,Net Banking,Paid,37377.53
+771,771,Cash,Paid,69687.39
+772,772,Net Banking,Paid,56627.09
+773,773,Debit Card,Paid,46414.59
+774,774,UPI,Paid,8495.5
+775,775,UPI,Paid,70884.21
+776,776,Net Banking,Paid,54072.47
+777,777,Debit Card,Paid,26549.42
+778,778,UPI,Paid,57573.51
+779,779,Credit Card,Paid,25915.1
+780,780,Cash,Paid,64504.79
+781,781,Net Banking,Paid,75234.63
+782,782,Credit Card,Paid,71411.92
+783,783,UPI,Paid,48698.7
+784,784,Debit Card,Paid,67054.77
+785,785,UPI,Paid,12029.88
+786,786,Debit Card,Paid,59428.53
+787,787,Credit Card,Paid,82679.66
+788,788,Debit Card,Paid,39992.43
+789,789,Cash,Paid,66691.46
+790,790,Cash,Paid,47721.26
+791,791,Credit Card,Paid,21504.14
+792,792,Cash,Paid,73431.35
+793,793,Cash,Paid,73801.18
+794,794,Credit Card,Refunded,19524.67
+795,795,Credit Card,Refunded,67297.51
+796,796,Cash,Paid,4343.57
+797,797,Net Banking,Paid,74634.23
+798,798,Credit Card,Paid,72258.69
+799,799,Credit Card,Paid,24090.03
+800,800,Cash,Paid,32441.94
+801,801,Credit Card,Paid,29898.9
+802,802,Net Banking,Paid,73876.22
+803,803,Net Banking,Paid,3187.77
+804,804,UPI,Paid,5995.74
+805,805,Net Banking,Paid,19099.05
+806,806,UPI,Paid,56084.23
+807,807,UPI,Paid,81452.52
+808,808,Net Banking,Paid,19310.8
+809,809,Cash,Paid,25075.56
+810,810,UPI,Paid,11290.55
+811,811,UPI,Paid,38514.82
+812,812,Credit Card,Refunded,73180.32
+813,813,Net Banking,Paid,65514.1
+814,814,Cash,Paid,62978.1
+815,815,UPI,Paid,71042.03
+816,816,UPI,Paid,57571.08
+817,817,UPI,Paid,4103.74
+818,818,Credit Card,Paid,28452.88
+819,819,Cash,Paid,19735.75
+820,820,Net Banking,Paid,37613.75
+821,821,Cash,Paid,413.87
+822,822,UPI,Paid,28447.44
+823,823,Net Banking,Paid,15311.32
+824,824,UPI,Paid,17614.15
+825,825,UPI,Paid,89239.18
+826,826,Debit Card,Paid,16837.04
+827,827,Cash,Paid,77096.71
+828,828,UPI,Paid,8610.04
+829,829,UPI,Paid,34813.59
+830,830,Cash,Paid,53917.05
+831,831,Debit Card,Paid,10699.44
+832,832,UPI,Paid,3545.53
+833,833,Cash,Paid,51930.14
+834,834,Net Banking,Paid,20268.23
+835,835,Net Banking,Paid,48043.25
+836,836,Net Banking,Paid,71607.32
+837,837,Debit Card,Refunded,998.48
+838,838,Credit Card,Paid,55045.68
+839,839,Cash,Paid,63730.04
+840,840,Debit Card,Paid,81673.35
+841,841,UPI,Paid,1849.35
+842,842,Cash,Paid,54134.58
+843,843,UPI,Paid,20034.29
+844,844,Debit Card,Paid,68687.83
+845,845,Cash,Paid,14938.45
+846,846,Debit Card,Paid,78476.56
+847,847,Credit Card,Refunded,4008.97
+848,848,Net Banking,Paid,43176.64
+849,849,Debit Card,Paid,44793.6
+850,850,Debit Card,Paid,34866.51
+851,851,UPI,Paid,48818.85
+852,852,Credit Card,Paid,6425.91
+853,853,Credit Card,Paid,81488.85
+854,854,UPI,Paid,64957.09
+855,855,Debit Card,Paid,89522.56
+856,856,Net Banking,Paid,84904.37
+857,857,UPI,Paid,60737.55
+858,858,UPI,Refunded,50026.75
+859,859,Credit Card,Paid,48921.2
+860,860,Credit Card,Paid,77754.12
+861,861,Cash,Paid,78769.7
+862,862,Credit Card,Paid,83377.01
+863,863,Cash,Paid,29411.79
+864,864,Credit Card,Paid,69278.06
+865,865,Credit Card,Paid,5643.22
+866,866,Debit Card,Paid,10617.48
+867,867,Cash,Paid,54122.95
+868,868,UPI,Paid,63189.91
+869,869,Net Banking,Paid,76169.92
+870,870,Net Banking,Paid,57103.95
+871,871,Debit Card,Refunded,77457.96
+872,872,UPI,Paid,32530.13
+873,873,Credit Card,Paid,6139.67
+874,874,UPI,Refunded,71396.8
+875,875,UPI,Paid,36623.85
+876,876,UPI,Paid,84745.8
+877,877,Net Banking,Paid,23009.58
+878,878,UPI,Paid,75633.18
+879,879,UPI,Paid,62353.74
+880,880,Cash,Paid,23321.9
+881,881,Cash,Paid,75717.99
+882,882,Debit Card,Paid,29513.79
+883,883,Cash,Paid,2976.39
+884,884,Debit Card,Paid,61305.37
+885,885,UPI,Paid,74628.5
+886,886,Net Banking,Paid,37433.19
+887,887,Cash,Paid,23826.13
+888,888,Cash,Paid,50307.92
+889,889,UPI,Paid,82335.36
+890,890,Debit Card,Paid,43993.91
+891,891,Cash,Paid,7312.21
+892,892,Debit Card,Paid,59315.89
+893,893,Net Banking,Paid,41050.79
+894,894,Credit Card,Paid,81720.78
+895,895,Debit Card,Paid,60801.12
+896,896,Cash,Paid,41036.3
+897,897,Debit Card,Paid,7976.1
+898,898,Debit Card,Paid,17814.02
+899,899,Net Banking,Paid,44734.6
+900,900,Net Banking,Paid,11374.61
+901,901,UPI,Paid,80145.29
+902,902,Net Banking,Paid,12387.14
+903,903,Net Banking,Paid,11914.11
+904,904,Net Banking,Paid,7906.77
+905,905,Net Banking,Paid,12598.37
+906,906,Debit Card,Paid,39354.15
+907,907,Net Banking,Paid,53829.74
+908,908,Net Banking,Paid,78888.79
+909,909,Net Banking,Refunded,43635.58
+910,910,Net Banking,Paid,33451.12
+911,911,Debit Card,Paid,67217.23
+912,912,Debit Card,Refunded,4319.03
+913,913,Credit Card,Paid,74020.83
+914,914,Credit Card,Paid,18803.47
+915,915,Credit Card,Paid,29209.36
+916,916,Net Banking,Paid,30816.19
+917,917,Debit Card,Refunded,74853.47
+918,918,Cash,Paid,67137.7
+919,919,UPI,Paid,28008.31
+920,920,UPI,Paid,40899.67
+921,921,Debit Card,Paid,30751.28
+922,922,Debit Card,Paid,81764.88
+923,923,UPI,Paid,18169.86
+924,924,Net Banking,Paid,46498.69
+925,925,Cash,Paid,1794.25
+926,926,Credit Card,Paid,20925.22
+927,927,UPI,Paid,13703.24
+928,928,Credit Card,Paid,894.6
+929,929,Debit Card,Paid,82945.71
+930,930,UPI,Paid,80052.8
+931,931,UPI,Paid,71416.89
+932,932,Cash,Refunded,25509.06
+933,933,Credit Card,Paid,83383.54
+934,934,Credit Card,Paid,24091.95
+935,935,Net Banking,Paid,61377.98
+936,936,Debit Card,Paid,53379.16
+937,937,UPI,Paid,4348.38
+938,938,Credit Card,Paid,38609.44
+939,939,Cash,Paid,8617.84
+940,940,Cash,Paid,77934.8
+941,941,UPI,Paid,7548.69
+942,942,Cash,Paid,86422.24
+943,943,Credit Card,Paid,34643.11
+944,944,Net Banking,Paid,87616.14
+945,945,Net Banking,Paid,46882.85
+946,946,Debit Card,Paid,73025.92
+947,947,Debit Card,Paid,45502.95
+948,948,Credit Card,Paid,69934.28
+949,949,Debit Card,Paid,37705.93
+950,950,Credit Card,Paid,45353.5
+951,951,Net Banking,Paid,17829.32
+952,952,Debit Card,Paid,74209.66
+953,953,Debit Card,Paid,26799.86
+954,954,Net Banking,Paid,18473.14
+955,955,Credit Card,Paid,87308.75
+956,956,Credit Card,Paid,49952.41
+957,957,Cash,Paid,22883.35
+958,958,Net Banking,Paid,66338.64
+959,959,Net Banking,Paid,14547.75
+960,960,Net Banking,Paid,35884.9
+961,961,Cash,Paid,63860.64
+962,962,Debit Card,Paid,49274.58
+963,963,Net Banking,Paid,63697.2
+964,964,UPI,Paid,7389.03
+965,965,UPI,Paid,56431.46
+966,966,Net Banking,Paid,61656.09
+967,967,UPI,Paid,50123.45
+968,968,Credit Card,Paid,33616.17
+969,969,UPI,Paid,35833.08
+970,970,UPI,Paid,43424.59
+971,971,Credit Card,Paid,23346.14
+972,972,UPI,Paid,640.2
+973,973,Debit Card,Paid,72532.67
+974,974,Cash,Paid,32185.84
+975,975,Net Banking,Paid,34561.02
+976,976,Credit Card,Paid,28276.4
+977,977,Net Banking,Paid,6500.74
+978,978,Debit Card,Paid,8972.62
+979,979,Debit Card,Paid,20642.31
+980,980,Credit Card,Paid,70758.54
+981,981,Net Banking,Paid,56113.25
+982,982,UPI,Refunded,2855.59
+983,983,Debit Card,Paid,67244.16
+984,984,Cash,Paid,20597.91
+985,985,Cash,Paid,44821.2
+986,986,Net Banking,Paid,63181.13
+987,987,Cash,Paid,56532.83
+988,988,Net Banking,Paid,45740.97
+989,989,Credit Card,Refunded,46202.66
+990,990,Credit Card,Paid,10669.64
+991,991,Net Banking,Paid,45072.95
+992,992,Cash,Paid,39508.31
+993,993,Cash,Paid,11742.45
+994,994,Credit Card,Paid,78113.44
+995,995,Credit Card,Paid,19530.45
+996,996,Debit Card,Paid,20851.33
+997,997,Net Banking,Paid,50240.28
+998,998,UPI,Paid,1536.07
+999,999,Cash,Paid,88256.27
+1000,1000,Net Banking,Paid,19885.39
+1001,1001,Net Banking,Paid,28075.96
+1002,1002,Credit Card,Paid,23248.7
+1003,1003,Debit Card,Paid,36421.23
+1004,1004,Net Banking,Refunded,36378.84
+1005,1005,Credit Card,Paid,34172.98
+1006,1006,Credit Card,Paid,76976.22
+1007,1007,Cash,Paid,11077.12
+1008,1008,Credit Card,Paid,11697.2
+1009,1009,Cash,Paid,77326.95
+1010,1010,Debit Card,Paid,15103.46
+1011,1011,Debit Card,Paid,68701.41
+1012,1012,Credit Card,Paid,63835.85
+1013,1013,Debit Card,Refunded,18021.25
+1014,1014,Cash,Paid,65056.45
+1015,1015,Credit Card,Paid,89847.51
+1016,1016,Net Banking,Refunded,59704.49
+1017,1017,UPI,Paid,36259.54
+1018,1018,Credit Card,Paid,79903.75
+1019,1019,Debit Card,Paid,8776.72
+1020,1020,Debit Card,Paid,18740.88
+1021,1021,UPI,Paid,52171.54
+1022,1022,Debit Card,Paid,10388.12
+1023,1023,Debit Card,Paid,88335.79
+1024,1024,Credit Card,Paid,9097.6
+1025,1025,Credit Card,Paid,10916.15
+1026,1026,Net Banking,Paid,42251.12
+1027,1027,Cash,Refunded,68215.65
+1028,1028,Net Banking,Paid,64015.82
+1029,1029,UPI,Paid,22942.1
+1030,1030,Debit Card,Paid,7759.76
+1031,1031,Cash,Paid,52270.76
+1032,1032,Cash,Paid,72642.2
+1033,1033,Cash,Paid,83904.96
+1034,1034,Credit Card,Paid,22432.93
+1035,1035,Net Banking,Paid,82949.23
+1036,1036,Debit Card,Paid,17649.89
+1037,1037,Net Banking,Paid,51985.19
+1038,1038,Net Banking,Paid,41671.07
+1039,1039,Debit Card,Paid,44084.01
+1040,1040,Credit Card,Paid,71011.68
+1041,1041,Net Banking,Paid,75060.39
+1042,1042,Cash,Paid,23338.43
+1043,1043,Cash,Paid,31340.33
+1044,1044,Cash,Paid,2406.77
+1045,1045,Net Banking,Paid,72010.43
+1046,1046,Cash,Paid,76990.39
+1047,1047,Net Banking,Paid,54741.81
+1048,1048,UPI,Paid,76502.38
+1049,1049,Credit Card,Refunded,3274.26
+1050,1050,Cash,Paid,54998.12
+1051,1051,Credit Card,Paid,87041.46
+1052,1052,Debit Card,Paid,67519.72
+1053,1053,UPI,Paid,45095.4
+1054,1054,UPI,Paid,23760.9
+1055,1055,Cash,Paid,8106.67
+1056,1056,Net Banking,Paid,85583.26
+1057,1057,Debit Card,Paid,70027.16
+1058,1058,UPI,Paid,74349.01
+1059,1059,Cash,Paid,28274.4
+1060,1060,Net Banking,Paid,51490.61
+1061,1061,UPI,Paid,20408.21
+1062,1062,Cash,Paid,34513.4
+1063,1063,Net Banking,Paid,34465.84
+1064,1064,Cash,Paid,40852.53
+1065,1065,Credit Card,Paid,60899.93
+1066,1066,Net Banking,Paid,68622.29
+1067,1067,UPI,Paid,27708.07
+1068,1068,Cash,Paid,32935.86
+1069,1069,Debit Card,Paid,51061.59
+1070,1070,Net Banking,Paid,82032.09
+1071,1071,Debit Card,Paid,9589.18
+1072,1072,Cash,Paid,32763.5
+1073,1073,Net Banking,Paid,17833.59
+1074,1074,Debit Card,Paid,42181.39
+1075,1075,Net Banking,Paid,27950.43
+1076,1076,Credit Card,Paid,60930.68
+1077,1077,UPI,Paid,65795.12
+1078,1078,Cash,Paid,73598.92
+1079,1079,Cash,Paid,30827.75
+1080,1080,Net Banking,Paid,78113.29
+1081,1081,Cash,Refunded,67962.93
+1082,1082,Credit Card,Paid,31069.11
+1083,1083,Net Banking,Paid,84776.22
+1084,1084,Cash,Paid,77620.72
+1085,1085,Credit Card,Paid,26612.87
+1086,1086,Debit Card,Paid,89359.49
+1087,1087,Net Banking,Refunded,79568.61
+1088,1088,Net Banking,Paid,18308.58
+1089,1089,Debit Card,Paid,59309.41
+1090,1090,Debit Card,Paid,53629.16
+1091,1091,Net Banking,Paid,66261.06
+1092,1092,Cash,Paid,34835.48
+1093,1093,UPI,Paid,57081.29
+1094,1094,Credit Card,Paid,31593.68
+1095,1095,Debit Card,Paid,24974.34
+1096,1096,Credit Card,Paid,77759.03
+1097,1097,Credit Card,Paid,23010.94
+1098,1098,UPI,Paid,40008.71
+1099,1099,Cash,Paid,50456.49
+1100,1100,Credit Card,Paid,55119.39
+1101,1101,UPI,Paid,57858.94
+1102,1102,Debit Card,Paid,21561
+1103,1103,UPI,Paid,25385.3
+1104,1104,UPI,Paid,69624.85
+1105,1105,Credit Card,Paid,33901.4
+1106,1106,Net Banking,Paid,65726.92
+1107,1107,Cash,Paid,52357.03
+1108,1108,Net Banking,Paid,11141.65
+1109,1109,UPI,Paid,27474.06
+1110,1110,UPI,Paid,62787.48
+1111,1111,UPI,Paid,42882.26
+1112,1112,UPI,Paid,87092.85
+1113,1113,Net Banking,Paid,31851.81
+1114,1114,Debit Card,Paid,19892.58
+1115,1115,UPI,Paid,75507.26
+1116,1116,Net Banking,Paid,72254.25
+1117,1117,Cash,Paid,32678.48
+1118,1118,Credit Card,Paid,40840.42
+1119,1119,Net Banking,Paid,18427.56
+1120,1120,Debit Card,Paid,42214.94
+1121,1121,Net Banking,Paid,62341.63
+1122,1122,Credit Card,Paid,77780.08
+1123,1123,Credit Card,Paid,19891.42
+1124,1124,Cash,Paid,81337.58
+1125,1125,Debit Card,Paid,55854
+1126,1126,Cash,Paid,53638.78
+1127,1127,UPI,Paid,25745.84
+1128,1128,Net Banking,Refunded,78978.18
+1129,1129,Cash,Paid,39428.09
+1130,1130,Debit Card,Paid,10182.7
+1131,1131,Cash,Paid,10614.13
+1132,1132,Net Banking,Paid,23834.66
+1133,1133,Cash,Paid,51050.6
+1134,1134,UPI,Paid,17909.21
+1135,1135,Credit Card,Paid,38612.32
+1136,1136,Debit Card,Paid,80083.35
+1137,1137,Cash,Paid,24482.37
+1138,1138,UPI,Paid,53226.78
+1139,1139,Credit Card,Paid,85141.59
+1140,1140,Net Banking,Paid,37067.53
+1141,1141,Cash,Paid,2900.7
+1142,1142,Net Banking,Paid,42492.3
+1143,1143,Cash,Paid,5723.49
+1144,1144,Credit Card,Paid,61313.95
+1145,1145,Net Banking,Paid,54094.37
+1146,1146,Cash,Paid,83042.91
+1147,1147,Net Banking,Paid,10147.93
+1148,1148,Cash,Paid,23043.76
+1149,1149,UPI,Paid,47026.28
+1150,1150,Credit Card,Paid,63079.48
+1151,1151,Net Banking,Paid,44991.18
+1152,1152,Cash,Paid,1105.65
+1153,1153,Cash,Refunded,70131.58
+1154,1154,Net Banking,Refunded,6232.59
+1155,1155,UPI,Paid,76098.5
+1156,1156,Net Banking,Paid,73734.69
+1157,1157,Credit Card,Paid,3512.39
+1158,1158,Debit Card,Paid,68593.26
+1159,1159,Cash,Paid,39890.66
+1160,1160,Credit Card,Paid,87217.98
+1161,1161,Debit Card,Paid,23111.18
+1162,1162,Debit Card,Paid,41780.88
+1163,1163,UPI,Paid,59496.09
+1164,1164,Cash,Paid,78157.51
+1165,1165,UPI,Paid,11897.87
+1166,1166,Net Banking,Paid,55406.22
+1167,1167,Credit Card,Paid,50001.07
+1168,1168,Debit Card,Paid,71329.9
+1169,1169,Net Banking,Paid,22339.69
+1170,1170,Cash,Paid,44472.58
+1171,1171,Debit Card,Paid,45381.05
+1172,1172,Cash,Paid,89448.1
+1173,1173,Debit Card,Paid,50708.55
+1174,1174,UPI,Paid,89687.44
+1175,1175,UPI,Paid,18231.3
+1176,1176,Net Banking,Paid,41666.74
+1177,1177,Debit Card,Paid,755.57
+1178,1178,UPI,Paid,14160
+1179,1179,Credit Card,Paid,11440.55
+1180,1180,Credit Card,Paid,75056.43
+1181,1181,Cash,Paid,54752.54
+1182,1182,UPI,Paid,36377.83
+1183,1183,Credit Card,Paid,86357.71
+1184,1184,Net Banking,Paid,81949.83
+1185,1185,Credit Card,Paid,31930.39
+1186,1186,Cash,Paid,2932.84
+1187,1187,UPI,Paid,10825.35
+1188,1188,Credit Card,Paid,72446.66
+1189,1189,Credit Card,Refunded,83217.91
+1190,1190,Debit Card,Paid,78014.45
+1191,1191,Debit Card,Paid,19585.66
+1192,1192,Credit Card,Paid,692.81
+1193,1193,Credit Card,Paid,7331.23
+1194,1194,Net Banking,Paid,63070.56
+1195,1195,UPI,Paid,84015.25
+1196,1196,UPI,Paid,27295.79
+1197,1197,UPI,Paid,51125.41
+1198,1198,Cash,Paid,81886.05
+1199,1199,Cash,Paid,26123.28
+1200,1200,Net Banking,Paid,32494.73
+1201,1201,Cash,Paid,54120.27
+1202,1202,Credit Card,Paid,73077.97
+1203,1203,Debit Card,Paid,24599.3
+1204,1204,Debit Card,Paid,21532.18
+1205,1205,Net Banking,Paid,77264.51
+1206,1206,Cash,Paid,13336.97
+1207,1207,Debit Card,Paid,78369.48
+1208,1208,UPI,Paid,76720.08
+1209,1209,Debit Card,Paid,45548.56
+1210,1210,Net Banking,Paid,33052.13
+1211,1211,UPI,Paid,69728.27
+1212,1212,UPI,Paid,30487.95
+1213,1213,UPI,Paid,22157.95
+1214,1214,Cash,Paid,51894.32
+1215,1215,Cash,Paid,29752.53
+1216,1216,Debit Card,Paid,40977.39
+1217,1217,Debit Card,Paid,1635.9
+1218,1218,UPI,Paid,46271.14
+1219,1219,UPI,Paid,79664.34
+1220,1220,Debit Card,Paid,46084.77
+1221,1221,UPI,Paid,26143.18
+1222,1222,Net Banking,Paid,21588.24
+1223,1223,Debit Card,Paid,83970.05
+1224,1224,Credit Card,Paid,31396.28
+1225,1225,Cash,Paid,33333.58
+1226,1226,Credit Card,Refunded,7278.93
+1227,1227,Debit Card,Paid,59865.03
+1228,1228,Net Banking,Paid,27212.25
+1229,1229,Debit Card,Paid,56594.41
+1230,1230,Debit Card,Paid,33677.72
+1231,1231,Credit Card,Paid,25763.3
+1232,1232,Debit Card,Paid,19749.21
+1233,1233,Credit Card,Paid,66378.47
+1234,1234,UPI,Paid,43582.72
+1235,1235,Debit Card,Refunded,1827.31
+1236,1236,Cash,Paid,78712.68
+1237,1237,Debit Card,Paid,88499.57
+1238,1238,Net Banking,Paid,51356.4
+1239,1239,UPI,Paid,80706.02
+1240,1240,Cash,Paid,39443.01
+1241,1241,Net Banking,Paid,30880.45
+1242,1242,Cash,Paid,10831.93
+1243,1243,Credit Card,Paid,20123.42
+1244,1244,Debit Card,Paid,69954.13
+1245,1245,Net Banking,Paid,56278.65
+1246,1246,Credit Card,Paid,27310.99
+1247,1247,Net Banking,Paid,44326.47
+1248,1248,Debit Card,Paid,32632.08
+1249,1249,Credit Card,Paid,73588.12
+1250,1250,UPI,Paid,25084.56
+1251,1251,Debit Card,Paid,5312.63
+1252,1252,Debit Card,Paid,30474.18
+1253,1253,Debit Card,Paid,31981.34
+1254,1254,Net Banking,Paid,79929.4
+1255,1255,Net Banking,Paid,72187.38
+1256,1256,Credit Card,Paid,89291.61
+1257,1257,Net Banking,Paid,18557.3
+1258,1258,Net Banking,Paid,63032.19
+1259,1259,Cash,Refunded,37504.08
+1260,1260,Cash,Refunded,32244.09
+1261,1261,UPI,Paid,8521.71
+1262,1262,UPI,Refunded,26645.17
+1263,1263,Net Banking,Paid,33538.94
+1264,1264,UPI,Paid,50456.24
+1265,1265,Cash,Paid,56429.53
+1266,1266,Net Banking,Paid,21066.77
+1267,1267,Cash,Paid,79878.87
+1268,1268,UPI,Paid,61443.96
+1269,1269,Cash,Paid,60240.2
+1270,1270,Cash,Paid,51945.11
+1271,1271,UPI,Paid,88504.17
+1272,1272,Debit Card,Refunded,88162.83
+1273,1273,Cash,Paid,71167.96
+1274,1274,Credit Card,Paid,7321.62
+1275,1275,Debit Card,Paid,15837.08
+1276,1276,Credit Card,Paid,4649.34
+1277,1277,Credit Card,Paid,61831.73
+1278,1278,Net Banking,Paid,84656.66
+1279,1279,UPI,Paid,52992.97
+1280,1280,Cash,Paid,60012.34
+1281,1281,Credit Card,Paid,50578.31
+1282,1282,UPI,Paid,84944.24
+1283,1283,Cash,Paid,50495.91
+1284,1284,Net Banking,Paid,26954.73
+1285,1285,Net Banking,Paid,46920.06
+1286,1286,Credit Card,Paid,69631.36
+1287,1287,Credit Card,Paid,67371.49
+1288,1288,Debit Card,Paid,66601.6
+1289,1289,Debit Card,Paid,46271.57
+1290,1290,Net Banking,Paid,17015.41
+1291,1291,Net Banking,Paid,26501.55
+1292,1292,Debit Card,Paid,27833.78
+1293,1293,Credit Card,Paid,41840.07
+1294,1294,Net Banking,Paid,68617.8
+1295,1295,Debit Card,Paid,36759.92
+1296,1296,Cash,Paid,46790
+1297,1297,Debit Card,Paid,42851.12
+1298,1298,Debit Card,Paid,24754.57
+1299,1299,UPI,Paid,35118.88
+1300,1300,Net Banking,Paid,27744.2
+1301,1301,Cash,Paid,73445.64
+1302,1302,UPI,Paid,55609.42
+1303,1303,Net Banking,Paid,72990.52
+1304,1304,Credit Card,Paid,36482.77
+1305,1305,Credit Card,Refunded,55469.99
+1306,1306,Cash,Paid,56506.49
+1307,1307,Cash,Paid,68382.69
+1308,1308,Cash,Paid,72526.79
+1309,1309,Cash,Paid,35157.51
+1310,1310,Cash,Paid,6029.72
+1311,1311,Credit Card,Paid,16630.94
+1312,1312,Credit Card,Paid,22096.49
+1313,1313,Credit Card,Paid,24186.18
+1314,1314,Net Banking,Refunded,16960.77
+1315,1315,Cash,Paid,18938.65
+1316,1316,Net Banking,Refunded,69686.35
+1317,1317,Cash,Refunded,60891.45
+1318,1318,Cash,Paid,37406.53
+1319,1319,Credit Card,Paid,86740.41
+1320,1320,Debit Card,Paid,4915.76
+1321,1321,Debit Card,Paid,29708.86
+1322,1322,Net Banking,Paid,60917.42
+1323,1323,Debit Card,Paid,58759.83
+1324,1324,Net Banking,Paid,74363.02
+1325,1325,Debit Card,Refunded,50677.53
+1326,1326,Credit Card,Paid,30557.98
+1327,1327,Net Banking,Paid,82515.79
+1328,1328,Debit Card,Paid,58753.77
+1329,1329,Net Banking,Paid,84675.33
+1330,1330,UPI,Paid,82419.31
+1331,1331,Net Banking,Paid,33277.76
+1332,1332,Debit Card,Paid,32155.31
+1333,1333,Credit Card,Refunded,16228.17
+1334,1334,Net Banking,Paid,8173.88
+1335,1335,UPI,Paid,40043.99
+1336,1336,Credit Card,Paid,77931.66
+1337,1337,UPI,Paid,29524
+1338,1338,UPI,Paid,51576.93
+1339,1339,UPI,Paid,72460.65
+1340,1340,Cash,Paid,21418.29
+1341,1341,Debit Card,Paid,28959.55
+1342,1342,Credit Card,Paid,89003.52
+1343,1343,Net Banking,Paid,63948.65
+1344,1344,Credit Card,Paid,80944.14
+1345,1345,Cash,Paid,16999.16
+1346,1346,Debit Card,Refunded,62357.98
+1347,1347,UPI,Paid,11858.45
+1348,1348,Cash,Refunded,440.28
+1349,1349,Net Banking,Refunded,55519.56
+1350,1350,Credit Card,Paid,4176.63
+1351,1351,Debit Card,Paid,54401.56
+1352,1352,Debit Card,Paid,41483.79
+1353,1353,Debit Card,Paid,52359.98
+1354,1354,Credit Card,Refunded,55746.67
+1355,1355,Debit Card,Paid,42735.41
+1356,1356,UPI,Paid,55592.99
+1357,1357,Cash,Paid,72219.06
+1358,1358,UPI,Refunded,74000.31
+1359,1359,Debit Card,Paid,56587.75
+1360,1360,UPI,Refunded,11378.19
+1361,1361,Credit Card,Paid,1272.3
+1362,1362,Net Banking,Paid,10053.53
+1363,1363,Credit Card,Paid,26088.81
+1364,1364,Net Banking,Paid,74132.62
+1365,1365,UPI,Paid,21756.85
+1366,1366,Credit Card,Paid,25722.64
+1367,1367,UPI,Paid,40079.23
+1368,1368,Debit Card,Paid,16411.49
+1369,1369,Credit Card,Refunded,36013.47
+1370,1370,Net Banking,Paid,18351.79
+1371,1371,UPI,Paid,87131.56
+1372,1372,Net Banking,Paid,37841.24
+1373,1373,Net Banking,Paid,29529.93
+1374,1374,UPI,Paid,41284.18
+1375,1375,Net Banking,Paid,60798.36
+1376,1376,Debit Card,Paid,67340.86
+1377,1377,Debit Card,Refunded,10412.3
+1378,1378,Net Banking,Paid,81336.81
+1379,1379,Cash,Refunded,49622.36
+1380,1380,UPI,Paid,545.81
+1381,1381,UPI,Paid,69602.35
+1382,1382,Net Banking,Paid,62894.84
+1383,1383,Credit Card,Paid,40991.51
+1384,1384,Debit Card,Paid,72974.31
+1385,1385,Credit Card,Paid,72009.6
+1386,1386,UPI,Paid,68493.59
+1387,1387,Cash,Paid,56779.05
+1388,1388,Debit Card,Paid,25584.29
+1389,1389,Net Banking,Paid,87158.1
+1390,1390,Net Banking,Paid,29976.98
+1391,1391,UPI,Paid,52476.85
+1392,1392,Credit Card,Paid,63651.86
+1393,1393,Debit Card,Paid,24645.44
+1394,1394,Debit Card,Paid,37280.16
+1395,1395,UPI,Paid,56638.78
+1396,1396,UPI,Paid,51746.27
+1397,1397,UPI,Paid,27621.47
+1398,1398,Cash,Paid,29272.55
+1399,1399,UPI,Paid,3240.11
+1400,1400,Net Banking,Paid,54729.22
+1401,1401,Credit Card,Paid,69789.64
+1402,1402,Credit Card,Paid,88252.75
+1403,1403,Debit Card,Paid,884.23
+1404,1404,UPI,Paid,63081.27
+1405,1405,Debit Card,Paid,559.96
+1406,1406,Debit Card,Paid,11020.76
+1407,1407,UPI,Paid,21225.87
+1408,1408,Net Banking,Paid,57688.94
+1409,1409,Debit Card,Paid,1261.94
+1410,1410,Credit Card,Paid,39843
+1411,1411,Cash,Paid,30888.51
+1412,1412,Credit Card,Paid,15514.64
+1413,1413,Cash,Paid,77675.97
+1414,1414,Cash,Paid,67113.05
+1415,1415,Net Banking,Paid,33857.85
+1416,1416,UPI,Paid,34259.63
+1417,1417,Credit Card,Paid,32108.16
+1418,1418,Credit Card,Paid,87118.15
+1419,1419,UPI,Paid,3038.24
+1420,1420,Cash,Paid,61801.12
+1421,1421,Cash,Paid,7831.41
+1422,1422,UPI,Paid,17271.64
+1423,1423,Net Banking,Paid,44084.91
+1424,1424,Cash,Paid,26090.76
+1425,1425,Debit Card,Paid,54313.59
+1426,1426,Debit Card,Paid,4171.49
+1427,1427,Credit Card,Paid,83548.45
+1428,1428,Credit Card,Paid,88126.78
+1429,1429,UPI,Paid,83846.2
+1430,1430,Net Banking,Paid,59856.03
+1431,1431,Debit Card,Refunded,77890.89
+1432,1432,Net Banking,Paid,35458.6
+1433,1433,Net Banking,Paid,48557.22
+1434,1434,Credit Card,Paid,13504.28
+1435,1435,Credit Card,Paid,40679.96
+1436,1436,Net Banking,Paid,37137.09
+1437,1437,UPI,Paid,70950.94
+1438,1438,UPI,Paid,11178.91
+1439,1439,Cash,Refunded,66633.49
+1440,1440,Net Banking,Paid,79787.76
+1441,1441,UPI,Paid,75507.82
+1442,1442,UPI,Paid,53184.18
+1443,1443,Net Banking,Refunded,73367.98
+1444,1444,Credit Card,Paid,4691.59
+1445,1445,Credit Card,Paid,45113.59
+1446,1446,Cash,Paid,47606.14
+1447,1447,Net Banking,Paid,41726.35
+1448,1448,Cash,Paid,70705.06
+1449,1449,Cash,Paid,41933.89
+1450,1450,UPI,Paid,11910.96
+1451,1451,Cash,Paid,50816.18
+1452,1452,UPI,Paid,81815.81
+1453,1453,Debit Card,Paid,86783.4
+1454,1454,Cash,Paid,86569.43
+1455,1455,Credit Card,Paid,61820.45
+1456,1456,UPI,Paid,13691.89
+1457,1457,Credit Card,Paid,87392.81
+1458,1458,Cash,Paid,77036.81
+1459,1459,Debit Card,Paid,84057.45
+1460,1460,Cash,Paid,65835.45
+1461,1461,Net Banking,Refunded,15971.31
+1462,1462,Debit Card,Paid,32316.12
+1463,1463,Net Banking,Paid,79171.48
+1464,1464,Cash,Paid,57614.91
+1465,1465,UPI,Paid,11122.1
+1466,1466,Cash,Paid,44258.77
+1467,1467,Net Banking,Paid,40599.93
+1468,1468,Cash,Paid,40766.08
+1469,1469,Debit Card,Paid,83587.15
+1470,1470,Cash,Paid,59018.1
+1471,1471,Cash,Paid,21397.13
+1472,1472,Credit Card,Paid,53245.84
+1473,1473,UPI,Paid,31754.91
+1474,1474,Net Banking,Refunded,55163.57
+1475,1475,Cash,Paid,80317.67
+1476,1476,Net Banking,Paid,11341.06
+1477,1477,Net Banking,Paid,10340.65
+1478,1478,Credit Card,Paid,86606.15
+1479,1479,Credit Card,Paid,33449.61
+1480,1480,Cash,Paid,56552.09
+1481,1481,Debit Card,Paid,43211.6
+1482,1482,Cash,Paid,57833.05
+1483,1483,Net Banking,Paid,71866.46
+1484,1484,Debit Card,Paid,33839.82
+1485,1485,UPI,Paid,16260.86
+1486,1486,Cash,Paid,12476.91
+1487,1487,Cash,Paid,86062.57
+1488,1488,Credit Card,Paid,11412.94
+1489,1489,Cash,Paid,36469.82
+1490,1490,UPI,Paid,17968.02
+1491,1491,Credit Card,Paid,40849.57
+1492,1492,Credit Card,Paid,72117.73
+1493,1493,Cash,Paid,7718.55
+1494,1494,UPI,Paid,39005.68
+1495,1495,Debit Card,Paid,71451.46
+1496,1496,Net Banking,Paid,61803.71
+1497,1497,UPI,Paid,33804.89
+1498,1498,Net Banking,Paid,28669.04
+1499,1499,Cash,Paid,65311.92
+1500,1500,UPI,Paid,7375.32
+1501,1501,Credit Card,Paid,82342.16
+1502,1502,Debit Card,Paid,27372.31
+1503,1503,UPI,Paid,22512.87
+1504,1504,Debit Card,Paid,6463.26
+1505,1505,Net Banking,Paid,3139.69
+1506,1506,Cash,Paid,14465.53
+1507,1507,Net Banking,Paid,3407.16
+1508,1508,Net Banking,Paid,53359.72
+1509,1509,Credit Card,Paid,58035.59
+1510,1510,Credit Card,Paid,79420.82
+1511,1511,Net Banking,Paid,52022.63
+1512,1512,UPI,Paid,80125.12
+1513,1513,Debit Card,Paid,72650.82
+1514,1514,Debit Card,Paid,1786.57
+1515,1515,Debit Card,Paid,20736.28
+1516,1516,UPI,Paid,24162.22
+1517,1517,Net Banking,Paid,1703.04
+1518,1518,Debit Card,Paid,70223.11
+1519,1519,Cash,Paid,56114.37
+1520,1520,UPI,Paid,13777.76
+1521,1521,UPI,Paid,9880.34
+1522,1522,Cash,Paid,45592.22
+1523,1523,Cash,Paid,37584.61
+1524,1524,Credit Card,Paid,57842.66
+1525,1525,Cash,Paid,68710.68
+1526,1526,Debit Card,Paid,22314.17
+1527,1527,Cash,Paid,19149.31
+1528,1528,UPI,Refunded,79930.18
+1529,1529,Credit Card,Paid,29448.08
+1530,1530,UPI,Paid,27171.26
+1531,1531,Net Banking,Paid,57979.4
+1532,1532,Credit Card,Paid,25980.42
+1533,1533,Debit Card,Paid,34776.04
+1534,1534,Credit Card,Paid,81800.66
+1535,1535,UPI,Paid,591.21
+1536,1536,Debit Card,Paid,74798.44
+1537,1537,Credit Card,Paid,71436.29
+1538,1538,Debit Card,Paid,13224.52
+1539,1539,UPI,Paid,655.75
+1540,1540,Debit Card,Paid,67642.21
+1541,1541,UPI,Paid,20847.93
+1542,1542,Debit Card,Paid,82673.89
+1543,1543,UPI,Paid,75038.06
+1544,1544,UPI,Refunded,64950.59
+1545,1545,Cash,Paid,71710.73
+1546,1546,UPI,Paid,47436.41
+1547,1547,Debit Card,Paid,39902.27
+1548,1548,Credit Card,Paid,10019.51
+1549,1549,UPI,Paid,6987.91
+1550,1550,Credit Card,Refunded,66697.08
+1551,1551,Net Banking,Paid,15141.57
+1552,1552,Cash,Refunded,30614.46
+1553,1553,Net Banking,Paid,4031.98
+1554,1554,Cash,Paid,23002.43
+1555,1555,Debit Card,Paid,65954.32
+1556,1556,Credit Card,Paid,11229.62
+1557,1557,UPI,Paid,39297.12
+1558,1558,Cash,Paid,12900.92
+1559,1559,Net Banking,Refunded,72071.14
+1560,1560,Cash,Paid,62788.82
+1561,1561,UPI,Paid,10756.58
+1562,1562,Cash,Paid,60128.35
+1563,1563,Debit Card,Refunded,15588.06
+1564,1564,Cash,Paid,16237.82
+1565,1565,Cash,Paid,16291.85
+1566,1566,UPI,Paid,77691.99
+1567,1567,Cash,Paid,58641.76
+1568,1568,UPI,Paid,81970.81
+1569,1569,UPI,Paid,26330.33
+1570,1570,Debit Card,Paid,19711
+1571,1571,Cash,Paid,62495.06
+1572,1572,Debit Card,Paid,52422.96
+1573,1573,Credit Card,Paid,76968.44
+1574,1574,Credit Card,Paid,813.23
+1575,1575,Net Banking,Refunded,73924.95
+1576,1576,UPI,Refunded,27386.78
+1577,1577,Debit Card,Paid,55849.4
+1578,1578,Cash,Paid,63255.13
+1579,1579,Net Banking,Paid,46360.03
+1580,1580,UPI,Paid,32949.64
+1581,1581,Credit Card,Paid,62285.54
+1582,1582,Credit Card,Paid,84572.75
+1583,1583,Debit Card,Paid,59688.07
+1584,1584,Net Banking,Paid,85463.31
+1585,1585,Cash,Paid,28301.76
+1586,1586,Debit Card,Paid,11400.74
+1587,1587,UPI,Paid,17467.57
+1588,1588,UPI,Refunded,50509.26
+1589,1589,Debit Card,Refunded,9124.14
+1590,1590,Debit Card,Paid,79475.41
+1591,1591,Credit Card,Paid,36417
+1592,1592,Credit Card,Paid,79882.86
+1593,1593,UPI,Paid,49020.05
+1594,1594,Debit Card,Paid,65535.77
+1595,1595,Net Banking,Paid,35689.88
+1596,1596,Credit Card,Paid,75076.68
+1597,1597,Credit Card,Paid,1199.48
+1598,1598,Debit Card,Paid,84375.25
+1599,1599,Net Banking,Paid,14555.66
+1600,1600,Net Banking,Paid,72045.79
+1601,1601,Credit Card,Paid,34822.4
+1602,1602,Cash,Paid,55831.43
+1603,1603,Net Banking,Paid,67691.1
+1604,1604,Debit Card,Paid,63837.05
+1605,1605,Net Banking,Paid,4947.27
+1606,1606,UPI,Paid,43965.5
+1607,1607,Debit Card,Paid,40559.27
+1608,1608,Credit Card,Refunded,75902.55
+1609,1609,Debit Card,Paid,74980.64
+1610,1610,Cash,Refunded,76946.28
+1611,1611,Credit Card,Paid,64407.22
+1612,1612,Credit Card,Paid,25744.06
+1613,1613,Debit Card,Paid,31216.48
+1614,1614,Cash,Refunded,26253.77
+1615,1615,Credit Card,Paid,53457.18
+1616,1616,Credit Card,Paid,43840.03
+1617,1617,Credit Card,Paid,52409.43
+1618,1618,Cash,Paid,19991.88
+1619,1619,Cash,Paid,15482.58
+1620,1620,Credit Card,Paid,17407.97
+1621,1621,Net Banking,Paid,87331.1
+1622,1622,UPI,Paid,49570.47
+1623,1623,UPI,Paid,43185.93
+1624,1624,Credit Card,Paid,24895.49
+1625,1625,Credit Card,Paid,31899.68
+1626,1626,Debit Card,Paid,7392.87
+1627,1627,UPI,Refunded,52219.55
+1628,1628,Cash,Paid,65374.43
+1629,1629,Credit Card,Paid,17081.65
+1630,1630,Net Banking,Paid,28891.74
+1631,1631,Net Banking,Paid,64876.36
+1632,1632,UPI,Paid,88511.48
+1633,1633,Cash,Paid,44756.96
+1634,1634,Debit Card,Paid,49776.6
+1635,1635,Cash,Paid,51100.91
+1636,1636,Credit Card,Paid,55192.45
+1637,1637,Cash,Paid,70466.76
+1638,1638,Credit Card,Paid,37628.53
+1639,1639,UPI,Paid,69252.12
+1640,1640,Debit Card,Paid,73124.44
+1641,1641,Debit Card,Paid,6844.45
+1642,1642,Debit Card,Paid,49854.31
+1643,1643,Debit Card,Paid,67418.26
+1644,1644,Credit Card,Paid,52568.1
+1645,1645,UPI,Paid,73596.71
+1646,1646,Debit Card,Paid,66901.89
+1647,1647,Credit Card,Paid,26684.83
+1648,1648,UPI,Paid,59452.41
+1649,1649,Debit Card,Paid,2624.1
+1650,1650,Net Banking,Paid,31033.45
+1651,1651,Cash,Paid,20875.24
+1652,1652,UPI,Paid,1180.53
+1653,1653,Net Banking,Paid,22887.25
+1654,1654,Credit Card,Paid,79496.38
+1655,1655,Net Banking,Paid,21582.03
+1656,1656,Net Banking,Paid,75942.04
+1657,1657,Credit Card,Paid,78193.25
+1658,1658,Credit Card,Paid,79551.72
+1659,1659,UPI,Paid,19718.2
+1660,1660,UPI,Paid,12851.51
+1661,1661,Cash,Paid,79849.82
+1662,1662,Credit Card,Paid,58949.55
+1663,1663,Net Banking,Paid,31991.44
+1664,1664,Debit Card,Paid,66832.61
+1665,1665,UPI,Paid,78996.14
+1666,1666,Debit Card,Paid,6633.37
+1667,1667,Net Banking,Paid,85334.77
+1668,1668,UPI,Paid,80235.96
+1669,1669,Credit Card,Paid,27731.45
+1670,1670,UPI,Paid,21702.92
+1671,1671,Credit Card,Paid,89669.15
+1672,1672,Net Banking,Refunded,87666.82
+1673,1673,Cash,Paid,65960.7
+1674,1674,UPI,Paid,80009.23
+1675,1675,Cash,Paid,2699.57
+1676,1676,Credit Card,Paid,8868.57
+1677,1677,Debit Card,Paid,63537.08
+1678,1678,UPI,Paid,64459.12
+1679,1679,Debit Card,Paid,11870.33
+1680,1680,Cash,Paid,7099.51
+1681,1681,Cash,Refunded,8125.78
+1682,1682,Net Banking,Paid,23782.62
+1683,1683,Net Banking,Paid,57206.34
+1684,1684,Credit Card,Paid,57845.19
+1685,1685,Cash,Paid,68426.1
+1686,1686,UPI,Paid,51782.63
+1687,1687,UPI,Paid,19103.31
+1688,1688,Net Banking,Paid,25425.35
+1689,1689,Debit Card,Paid,23246.41
+1690,1690,Net Banking,Paid,27697.55
+1691,1691,UPI,Paid,32701.72
+1692,1692,UPI,Paid,26692.32
+1693,1693,Credit Card,Paid,1375.23
+1694,1694,Debit Card,Paid,11239.7
+1695,1695,Debit Card,Paid,86415.85
+1696,1696,Credit Card,Paid,12244.27
+1697,1697,Credit Card,Paid,61711.54
+1698,1698,Net Banking,Paid,53832.6
+1699,1699,Net Banking,Paid,12003.77
+1700,1700,Cash,Refunded,71603.51
+1701,1701,Cash,Paid,72126.15
+1702,1702,Cash,Paid,84702.64
+1703,1703,Net Banking,Paid,81588.21
+1704,1704,Debit Card,Paid,38289.68
+1705,1705,Net Banking,Paid,77869.71
+1706,1706,Credit Card,Refunded,41985.32
+1707,1707,Cash,Paid,54700.49
+1708,1708,Credit Card,Paid,20321.62
+1709,1709,Credit Card,Paid,4042.26
+1710,1710,Cash,Paid,3783.49
+1711,1711,Cash,Paid,22986.27
+1712,1712,UPI,Paid,37067.06
+1713,1713,Credit Card,Paid,58174.48
+1714,1714,UPI,Paid,25465.28
+1715,1715,Net Banking,Paid,45027.22
+1716,1716,UPI,Paid,70163.71
+1717,1717,UPI,Paid,22543.36
+1718,1718,Debit Card,Paid,31500.89
+1719,1719,Cash,Paid,46046.89
+1720,1720,Debit Card,Paid,9812.06
+1721,1721,Credit Card,Paid,21686.81
+1722,1722,Debit Card,Paid,3257.25
+1723,1723,Cash,Paid,54205.27
+1724,1724,Cash,Paid,16688.21
+1725,1725,Net Banking,Refunded,28663.15
+1726,1726,Net Banking,Paid,20742.97
+1727,1727,UPI,Refunded,80707.56
+1728,1728,UPI,Paid,66577.68
+1729,1729,Cash,Paid,69165.22
+1730,1730,Debit Card,Paid,59208.71
+1731,1731,Debit Card,Paid,32506.01
+1732,1732,Debit Card,Paid,68091.82
+1733,1733,UPI,Paid,25632.67
+1734,1734,Cash,Paid,40680.75
+1735,1735,Net Banking,Paid,63826.11
+1736,1736,Cash,Paid,42278.17
+1737,1737,Credit Card,Paid,48562.78
+1738,1738,Credit Card,Paid,58097.7
+1739,1739,UPI,Paid,87753.42
+1740,1740,Credit Card,Paid,66701.97
+1741,1741,Debit Card,Refunded,61218.53
+1742,1742,Debit Card,Paid,2243.27
+1743,1743,UPI,Paid,44655.75
+1744,1744,UPI,Paid,70471.52
+1745,1745,Net Banking,Paid,62021.01
+1746,1746,Debit Card,Refunded,48506.11
+1747,1747,Debit Card,Paid,8801.62
+1748,1748,UPI,Paid,49810.07
+1749,1749,Debit Card,Paid,47106.95
+1750,1750,Debit Card,Paid,13659.46
+1751,1751,Net Banking,Paid,27265.53
+1752,1752,Cash,Paid,5618.68
+1753,1753,UPI,Paid,37474.2
+1754,1754,Net Banking,Paid,88175.69
+1755,1755,Credit Card,Paid,70139.37
+1756,1756,Debit Card,Paid,29569.08
+1757,1757,UPI,Paid,59467.33
+1758,1758,Net Banking,Paid,41883.2
+1759,1759,Cash,Paid,59448.81
+1760,1760,Debit Card,Paid,89271.42
+1761,1761,UPI,Paid,54184.52
+1762,1762,UPI,Paid,68002.21
+1763,1763,Cash,Paid,23692.15
+1764,1764,Net Banking,Paid,88440.32
+1765,1765,Cash,Paid,56302.19
+1766,1766,Debit Card,Paid,84034.83
+1767,1767,Debit Card,Paid,36533.71
+1768,1768,Cash,Paid,42200.31
+1769,1769,Credit Card,Paid,11172.71
+1770,1770,Debit Card,Paid,5609.15
+1771,1771,Debit Card,Paid,22281.97
+1772,1772,Debit Card,Paid,83032.72
+1773,1773,Credit Card,Paid,8991.69
+1774,1774,Net Banking,Paid,41895.36
+1775,1775,Credit Card,Paid,5401.19
+1776,1776,Credit Card,Paid,81346.5
+1777,1777,Net Banking,Paid,65676.7
+1778,1778,UPI,Paid,72604.06
+1779,1779,Debit Card,Paid,87533.69
+1780,1780,UPI,Paid,19135.65
+1781,1781,Credit Card,Paid,78817.93
+1782,1782,Debit Card,Paid,11375.45
+1783,1783,Cash,Refunded,10097.1
+1784,1784,Credit Card,Paid,75286.26
+1785,1785,UPI,Refunded,2790.79
+1786,1786,Cash,Paid,22531.84
+1787,1787,Debit Card,Paid,18590.08
+1788,1788,Debit Card,Paid,78441.55
+1789,1789,Net Banking,Paid,24050.62
+1790,1790,Credit Card,Paid,70640.57
+1791,1791,Credit Card,Paid,67419.17
+1792,1792,Debit Card,Paid,50580.27
+1793,1793,Net Banking,Paid,69813.45
+1794,1794,Cash,Paid,10047.5
+1795,1795,Debit Card,Paid,51507.53
+1796,1796,UPI,Paid,66189.87
+1797,1797,Debit Card,Paid,48194.28
+1798,1798,Debit Card,Paid,28518.15
+1799,1799,Cash,Paid,48317.77
+1800,1800,Debit Card,Paid,11714.54
+1801,1801,Cash,Paid,5684.36
+1802,1802,Debit Card,Paid,52373.5
+1803,1803,Credit Card,Paid,87083.59
+1804,1804,Debit Card,Paid,12280.91
+1805,1805,Cash,Paid,53506.62
+1806,1806,Debit Card,Paid,5319.92
+1807,1807,Cash,Paid,78867.79
+1808,1808,Net Banking,Refunded,3014.31
+1809,1809,Cash,Paid,28658.86
+1810,1810,Net Banking,Paid,8196.29
+1811,1811,Debit Card,Paid,72804.08
+1812,1812,Debit Card,Paid,82112.58
+1813,1813,Net Banking,Paid,63425.85
+1814,1814,Debit Card,Paid,43573.4
+1815,1815,Cash,Paid,51024.79
+1816,1816,Debit Card,Paid,22301.8
+1817,1817,UPI,Refunded,72663.9
+1818,1818,Cash,Paid,34971.93
+1819,1819,Cash,Paid,83176.38
+1820,1820,Net Banking,Paid,39264.81
+1821,1821,Credit Card,Paid,32964.65
+1822,1822,Cash,Paid,44866.47
+1823,1823,Debit Card,Paid,31841.77
+1824,1824,Cash,Paid,58894.25
+1825,1825,Debit Card,Paid,9330.62
+1826,1826,Debit Card,Paid,2484.85
+1827,1827,Credit Card,Paid,23019.32
+1828,1828,Net Banking,Refunded,54393.79
+1829,1829,Cash,Paid,5722.06
+1830,1830,Credit Card,Paid,76942.76
+1831,1831,Net Banking,Paid,75863.93
+1832,1832,Net Banking,Paid,3088.06
+1833,1833,UPI,Paid,85712.26
+1834,1834,UPI,Paid,63687.54
+1835,1835,Credit Card,Paid,61801.7
+1836,1836,Credit Card,Refunded,12113.15
+1837,1837,Cash,Paid,67531.89
+1838,1838,Cash,Paid,26954.08
+1839,1839,Debit Card,Paid,45913.84
+1840,1840,Cash,Paid,84423.44
+1841,1841,Credit Card,Paid,32366.64
+1842,1842,Net Banking,Paid,38635.96
+1843,1843,Net Banking,Paid,53360.27
+1844,1844,Debit Card,Paid,65414.01
+1845,1845,Debit Card,Paid,54523.38
+1846,1846,Net Banking,Paid,64099.52
+1847,1847,Credit Card,Paid,66054.22
+1848,1848,UPI,Paid,40541.69
+1849,1849,Credit Card,Paid,44523.13
+1850,1850,Credit Card,Paid,39718.56
+1851,1851,Debit Card,Paid,12205.23
+1852,1852,Cash,Paid,81230.48
+1853,1853,Credit Card,Paid,86859.68
+1854,1854,Net Banking,Paid,42978.99
+1855,1855,UPI,Paid,82655.54
+1856,1856,UPI,Paid,69050.17
+1857,1857,Debit Card,Paid,25251.4
+1858,1858,Credit Card,Paid,59841.07
+1859,1859,UPI,Paid,49853.1
+1860,1860,Debit Card,Paid,86143.06
+1861,1861,Credit Card,Paid,887.51
+1862,1862,UPI,Paid,48011.16
+1863,1863,Debit Card,Paid,43071.46
+1864,1864,Cash,Paid,53013.33
+1865,1865,Net Banking,Paid,87964.06
+1866,1866,Net Banking,Paid,70251.98
+1867,1867,Credit Card,Paid,43492.27
+1868,1868,Debit Card,Paid,56358.03
+1869,1869,Net Banking,Paid,19766.96
+1870,1870,Net Banking,Paid,17659.31
+1871,1871,Net Banking,Paid,46946.66
+1872,1872,UPI,Paid,69345.37
+1873,1873,UPI,Paid,74291
+1874,1874,Net Banking,Paid,1369.18
+1875,1875,Debit Card,Paid,39859.73
+1876,1876,Debit Card,Paid,17675.79
+1877,1877,Net Banking,Paid,85852.21
+1878,1878,Net Banking,Paid,86090.27
+1879,1879,Debit Card,Paid,87421.19
+1880,1880,Debit Card,Paid,19726.87
+1881,1881,UPI,Paid,81263.57
+1882,1882,UPI,Paid,87272.4
+1883,1883,UPI,Paid,50560.26
+1884,1884,Cash,Paid,50183.41
+1885,1885,Cash,Refunded,88936.47
+1886,1886,Net Banking,Paid,19100.45
+1887,1887,UPI,Paid,76544.19
+1888,1888,Credit Card,Paid,88421.77
+1889,1889,UPI,Paid,80051.22
+1890,1890,UPI,Paid,66864.29
+1891,1891,Net Banking,Paid,80466.99
+1892,1892,Cash,Paid,60384.8
+1893,1893,UPI,Paid,57609.43
+1894,1894,UPI,Paid,47436.04
+1895,1895,Credit Card,Refunded,323.21
+1896,1896,Net Banking,Paid,15802.09
+1897,1897,UPI,Paid,7959.62
+1898,1898,Debit Card,Paid,47163.47
+1899,1899,Debit Card,Paid,31441.11
+1900,1900,Credit Card,Paid,51450.06
+1901,1901,Debit Card,Refunded,21341.58
+1902,1902,Cash,Paid,73018.99
+1903,1903,Debit Card,Paid,46593.67
+1904,1904,Cash,Paid,10614.41
+1905,1905,UPI,Paid,2951.18
+1906,1906,Cash,Paid,73768.91
+1907,1907,UPI,Paid,5384.83
+1908,1908,UPI,Paid,79773.25
+1909,1909,Debit Card,Refunded,41997.67
+1910,1910,UPI,Paid,11222.23
+1911,1911,Cash,Paid,4523.02
+1912,1912,Cash,Paid,38260.76
+1913,1913,Debit Card,Paid,63149.91
+1914,1914,UPI,Paid,61544.63
+1915,1915,UPI,Paid,53016.78
+1916,1916,Cash,Refunded,27538.37
+1917,1917,Credit Card,Paid,74647.4
+1918,1918,Net Banking,Paid,35357.14
+1919,1919,Net Banking,Paid,11775.86
+1920,1920,UPI,Paid,86002.52
+1921,1921,UPI,Paid,26136.52
+1922,1922,Credit Card,Paid,27969.27
+1923,1923,Debit Card,Paid,58721.7
+1924,1924,Debit Card,Paid,82223.42
+1925,1925,Net Banking,Paid,81627.85
+1926,1926,Credit Card,Paid,78943.74
+1927,1927,Credit Card,Paid,83637.3
+1928,1928,UPI,Paid,77290.77
+1929,1929,Net Banking,Paid,38489.31
+1930,1930,Net Banking,Paid,40587.18
+1931,1931,Net Banking,Paid,50165.38
+1932,1932,Debit Card,Paid,50858.49
+1933,1933,Cash,Paid,48100.99
+1934,1934,UPI,Paid,7061.26
+1935,1935,Net Banking,Paid,35757.66
+1936,1936,Net Banking,Paid,41358.4
+1937,1937,Net Banking,Paid,26285.81
+1938,1938,Net Banking,Paid,56345.84
+1939,1939,Credit Card,Paid,48556.36
+1940,1940,Credit Card,Refunded,41069.91
+1941,1941,UPI,Paid,25302.95
+1942,1942,Cash,Paid,38975.06
+1943,1943,Debit Card,Paid,47081.87
+1944,1944,Net Banking,Paid,88401.24
+1945,1945,UPI,Paid,49328.39
+1946,1946,Cash,Paid,26557.47
+1947,1947,Cash,Paid,18321.27
+1948,1948,Cash,Paid,75468.85
+1949,1949,Cash,Paid,16305.55
+1950,1950,Credit Card,Refunded,12818.69
+1951,1951,Credit Card,Paid,60240.26
+1952,1952,Debit Card,Paid,42425.18
+1953,1953,Debit Card,Paid,69935.41
+1954,1954,Credit Card,Paid,35228.48
+1955,1955,Credit Card,Paid,89013.96
+1956,1956,Debit Card,Paid,735.91
+1957,1957,Cash,Paid,41367.78
+1958,1958,Debit Card,Paid,31598.7
+1959,1959,Credit Card,Paid,21301.33
+1960,1960,UPI,Paid,30835.6
+1961,1961,UPI,Paid,919.58
+1962,1962,Net Banking,Paid,78828.92
+1963,1963,Cash,Paid,73064.43
+1964,1964,UPI,Paid,4442.14
+1965,1965,UPI,Paid,18435.96
+1966,1966,Net Banking,Paid,73957.48
+1967,1967,Cash,Paid,30652.49
+1968,1968,Cash,Paid,46547.77
+1969,1969,Cash,Paid,24246.99
+1970,1970,Net Banking,Paid,89817.5
+1971,1971,Net Banking,Refunded,73528.13
+1972,1972,UPI,Paid,72173.75
+1973,1973,UPI,Paid,45035.15
+1974,1974,Credit Card,Paid,74891.41
+1975,1975,UPI,Refunded,78507.59
+1976,1976,UPI,Paid,70618.89
+1977,1977,Debit Card,Paid,65742.6
+1978,1978,Net Banking,Paid,80288.82
+1979,1979,Net Banking,Paid,50515.8
+1980,1980,Net Banking,Paid,21681.03
+1981,1981,Debit Card,Paid,39468.67
+1982,1982,Debit Card,Paid,80315.55
+1983,1983,Debit Card,Paid,74970.69
+1984,1984,Net Banking,Paid,87509.54
+1985,1985,Debit Card,Paid,38788.7
+1986,1986,Debit Card,Paid,68500.07
+1987,1987,Cash,Paid,6316.05
+1988,1988,UPI,Paid,32730.83
+1989,1989,Cash,Paid,22787.12
+1990,1990,Net Banking,Paid,45429.25
+1991,1991,Cash,Paid,18889.42
+1992,1992,Credit Card,Paid,15730.66
+1993,1993,Cash,Paid,18684.4
+1994,1994,Credit Card,Paid,75154.47
+1995,1995,UPI,Paid,11303.77
+1996,1996,UPI,Paid,1582.58
+1997,1997,UPI,Paid,19282.48
+1998,1998,Cash,Paid,26265.31
+1999,1999,Net Banking,Paid,23493.5
+2000,2000,UPI,Paid,40968.13
+2001,2001,Debit Card,Paid,32895.06
+2002,2002,Net Banking,Paid,10208.53
+2003,2003,Net Banking,Paid,35335.72
+2004,2004,Cash,Paid,49460.65
+2005,2005,Debit Card,Paid,7881.35
+2006,2006,Net Banking,Paid,33541.31
+2007,2007,Net Banking,Paid,82880.08
+2008,2008,Debit Card,Paid,67739.64
+2009,2009,Net Banking,Paid,73533.02
+2010,2010,Net Banking,Paid,36258.1
+2011,2011,UPI,Paid,4504.14
+2012,2012,Debit Card,Paid,45162.01
+2013,2013,Net Banking,Paid,76533.18
+2014,2014,Credit Card,Paid,28183.34
+2015,2015,Debit Card,Paid,6633.68
+2016,2016,Net Banking,Paid,51718.4
+2017,2017,Cash,Paid,47771.01
+2018,2018,Debit Card,Paid,44042.26
+2019,2019,Credit Card,Paid,27128.04
+2020,2020,Cash,Refunded,743.74
+2021,2021,Cash,Refunded,32754.84
+2022,2022,Net Banking,Paid,15564.04
+2023,2023,Cash,Paid,70592.18
+2024,2024,UPI,Paid,39031.97
+2025,2025,Credit Card,Paid,5834.8
+2026,2026,Net Banking,Paid,27684.51
+2027,2027,Credit Card,Refunded,18434.58
+2028,2028,Credit Card,Paid,72069.01
+2029,2029,Credit Card,Paid,5288.19
+2030,2030,Credit Card,Paid,89984.27
+2031,2031,UPI,Refunded,21990.76
+2032,2032,Cash,Paid,10031.93
+2033,2033,Debit Card,Refunded,23877.21
+2034,2034,Debit Card,Paid,22867.8
+2035,2035,Credit Card,Paid,47219.4
+2036,2036,Cash,Paid,62778.7
+2037,2037,Debit Card,Paid,35524.78
+2038,2038,Debit Card,Paid,17599.3
+2039,2039,Cash,Paid,31375.86
+2040,2040,Net Banking,Refunded,19237.55
+2041,2041,Credit Card,Paid,86200.84
+2042,2042,UPI,Paid,58619.97
+2043,2043,Net Banking,Paid,59208.75
+2044,2044,Net Banking,Paid,85985.06
+2045,2045,Credit Card,Paid,87611.9
+2046,2046,Cash,Paid,72767.32
+2047,2047,Cash,Paid,32179.49
+2048,2048,Net Banking,Paid,39531.47
+2049,2049,Debit Card,Paid,58903.37
+2050,2050,UPI,Paid,85026.2
+2051,2051,Cash,Paid,62417.3
+2052,2052,Net Banking,Paid,89388.78
+2053,2053,Cash,Paid,11863.14
+2054,2054,Credit Card,Paid,27794.74
+2055,2055,Cash,Paid,53394.43
+2056,2056,Debit Card,Paid,25770.97
+2057,2057,Cash,Paid,75334.94
+2058,2058,Cash,Paid,41344.41
+2059,2059,UPI,Paid,65501.66
+2060,2060,Credit Card,Paid,8413.89
+2061,2061,Net Banking,Paid,59051.61
+2062,2062,UPI,Paid,73243.16
+2063,2063,Debit Card,Paid,61266.88
+2064,2064,Credit Card,Paid,77088.73
+2065,2065,Net Banking,Paid,75350.59
+2066,2066,UPI,Paid,14548.44
+2067,2067,UPI,Paid,69893.35
+2068,2068,Debit Card,Paid,51620.17
+2069,2069,Debit Card,Paid,65871.57
+2070,2070,Net Banking,Paid,73451.19
+2071,2071,UPI,Paid,62069.93
+2072,2072,Credit Card,Paid,35344.54
+2073,2073,Credit Card,Paid,57005.62
+2074,2074,Cash,Paid,88691.38
+2075,2075,Credit Card,Paid,14262.6
+2076,2076,Cash,Paid,34678.5
+2077,2077,Credit Card,Paid,8493.53
+2078,2078,Debit Card,Paid,5112.79
+2079,2079,Cash,Paid,85012.65
+2080,2080,Debit Card,Refunded,75485.12
+2081,2081,Debit Card,Refunded,80488.97
+2082,2082,Debit Card,Paid,47771
+2083,2083,UPI,Paid,4719.54
+2084,2084,Credit Card,Paid,68469.03
+2085,2085,Credit Card,Paid,66453.86
+2086,2086,Cash,Paid,46539.58
+2087,2087,Credit Card,Paid,54846.7
+2088,2088,Credit Card,Refunded,24070.34
+2089,2089,UPI,Paid,8017.7
+2090,2090,Cash,Paid,42284.74
+2091,2091,Credit Card,Paid,15897.96
+2092,2092,Net Banking,Paid,84501.63
+2093,2093,Net Banking,Paid,42881.95
+2094,2094,Net Banking,Paid,39424.02
+2095,2095,Net Banking,Paid,35985.97
+2096,2096,Debit Card,Paid,32320.02
+2097,2097,UPI,Paid,29048.01
+2098,2098,Credit Card,Paid,26142.62
+2099,2099,UPI,Paid,81849.62
+2100,2100,Cash,Paid,30760.83
+2101,2101,Credit Card,Paid,19778.88
+2102,2102,UPI,Paid,54767.32
+2103,2103,Debit Card,Paid,74954.51
+2104,2104,Credit Card,Paid,5580.56
+2105,2105,Credit Card,Paid,79657.79
+2106,2106,Net Banking,Paid,57401.92
+2107,2107,Cash,Paid,14436.5
+2108,2108,Debit Card,Paid,87527.23
+2109,2109,Net Banking,Paid,45530.91
+2110,2110,Cash,Paid,42741.94
+2111,2111,Cash,Paid,6567.41
+2112,2112,UPI,Paid,77850.14
+2113,2113,Net Banking,Paid,62072.43
+2114,2114,Debit Card,Paid,31393.38
+2115,2115,UPI,Paid,28560.72
+2116,2116,UPI,Paid,85419.47
+2117,2117,Credit Card,Paid,71142.43
+2118,2118,Net Banking,Refunded,88477.27
+2119,2119,Debit Card,Paid,77116.83
+2120,2120,Debit Card,Refunded,53944.19
+2121,2121,Debit Card,Paid,75124.17
+2122,2122,Debit Card,Paid,78926.74
+2123,2123,Cash,Paid,22812.91
+2124,2124,UPI,Paid,72810.24
+2125,2125,UPI,Paid,22983.57
+2126,2126,Credit Card,Paid,56949.19
+2127,2127,Net Banking,Paid,15113.96
+2128,2128,Debit Card,Paid,35998.22
+2129,2129,Cash,Paid,14401.79
+2130,2130,Cash,Paid,81250.59
+2131,2131,UPI,Paid,28968.81
+2132,2132,Cash,Paid,54262.16
+2133,2133,UPI,Paid,67629.7
+2134,2134,UPI,Refunded,4210.74
+2135,2135,Credit Card,Paid,60004.45
+2136,2136,Net Banking,Paid,30986.95
+2137,2137,Net Banking,Paid,58191.37
+2138,2138,Debit Card,Paid,79658.38
+2139,2139,Credit Card,Paid,49772.14
+2140,2140,Net Banking,Paid,49880.78
+2141,2141,Debit Card,Paid,58983.76
+2142,2142,Credit Card,Paid,72367.25
+2143,2143,Net Banking,Paid,16787.8
+2144,2144,Net Banking,Paid,32027.52
+2145,2145,UPI,Paid,77053.66
+2146,2146,Credit Card,Paid,30276.37
+2147,2147,Net Banking,Paid,30160.85
+2148,2148,UPI,Paid,18599.97
+2149,2149,UPI,Paid,73641.03
+2150,2150,Net Banking,Paid,70948.44
+2151,2151,Debit Card,Paid,35810.73
+2152,2152,Cash,Paid,63416.12
+2153,2153,UPI,Paid,36932.41
+2154,2154,Credit Card,Paid,4047.22
+2155,2155,Debit Card,Paid,63568.92
+2156,2156,Net Banking,Paid,14064.13
+2157,2157,Credit Card,Paid,66387.68
+2158,2158,Credit Card,Paid,8218.33
+2159,2159,UPI,Paid,87377.35
+2160,2160,Net Banking,Paid,65992.04
+2161,2161,Credit Card,Paid,82627.47
+2162,2162,Net Banking,Paid,40948.38
+2163,2163,UPI,Refunded,35865.95
+2164,2164,Debit Card,Paid,25841.19
+2165,2165,Net Banking,Paid,19496.14
+2166,2166,Net Banking,Refunded,4447.59
+2167,2167,Credit Card,Paid,14226.42
+2168,2168,Credit Card,Paid,11230.82
+2169,2169,Debit Card,Paid,32744.82
+2170,2170,Cash,Paid,80356.53
+2171,2171,Debit Card,Paid,14008.76
+2172,2172,Debit Card,Paid,3254.48
+2173,2173,Cash,Paid,51228.59
+2174,2174,Net Banking,Paid,23648.9
+2175,2175,Debit Card,Paid,61015.33
+2176,2176,Cash,Refunded,18072.85
+2177,2177,Debit Card,Paid,42265.04
+2178,2178,Cash,Paid,67711.73
+2179,2179,Net Banking,Paid,2457.04
+2180,2180,Net Banking,Paid,45668.45
+2181,2181,Cash,Paid,38955.46
+2182,2182,Net Banking,Paid,27982.11
+2183,2183,Cash,Paid,83656.85
+2184,2184,Net Banking,Paid,57150.3
+2185,2185,Debit Card,Paid,45648.64
+2186,2186,Debit Card,Refunded,81516.34
+2187,2187,Net Banking,Paid,30384.51
+2188,2188,Credit Card,Paid,15115.51
+2189,2189,Credit Card,Paid,34117.22
+2190,2190,Credit Card,Paid,19201.15
+2191,2191,Credit Card,Paid,29667.28
+2192,2192,Debit Card,Paid,44059.39
+2193,2193,Cash,Paid,64690.25
+2194,2194,Credit Card,Paid,73857.38
+2195,2195,Debit Card,Refunded,42779.82
+2196,2196,Credit Card,Paid,42236.98
+2197,2197,Net Banking,Paid,23022.38
+2198,2198,Debit Card,Paid,37632.03
+2199,2199,Cash,Paid,9281.67
+2200,2200,Cash,Paid,65679.43
+2201,2201,Cash,Paid,4623.29
+2202,2202,Cash,Paid,35808.25
+2203,2203,Cash,Paid,34934.37
+2204,2204,Cash,Paid,62677.11
+2205,2205,Debit Card,Paid,87037.13
+2206,2206,UPI,Paid,54485.16
+2207,2207,Cash,Paid,67925.87
+2208,2208,Net Banking,Paid,32612.32
+2209,2209,UPI,Paid,56056.01
+2210,2210,UPI,Paid,20890.45
+2211,2211,Credit Card,Paid,76553.46
+2212,2212,UPI,Paid,62677.67
+2213,2213,UPI,Paid,49138.36
+2214,2214,Debit Card,Paid,35735.27
+2215,2215,Credit Card,Paid,42361.76
+2216,2216,Credit Card,Paid,58192.5
+2217,2217,Credit Card,Paid,44608.18
+2218,2218,UPI,Paid,56957.91
+2219,2219,Credit Card,Paid,8467.99
+2220,2220,UPI,Paid,14646.88
+2221,2221,Debit Card,Paid,34884.35
+2222,2222,Credit Card,Refunded,16480.14
+2223,2223,Credit Card,Paid,21869.29
+2224,2224,Credit Card,Paid,19697.54
+2225,2225,Credit Card,Paid,73287.87
+2226,2226,UPI,Paid,61196.37
+2227,2227,Credit Card,Paid,53550.14
+2228,2228,UPI,Paid,43807.56
+2229,2229,Net Banking,Paid,49568.99
+2230,2230,Credit Card,Paid,17100.61
+2231,2231,Credit Card,Paid,56131.54
+2232,2232,Net Banking,Paid,9062.18
+2233,2233,Cash,Paid,57313.67
+2234,2234,UPI,Refunded,62864.66
+2235,2235,UPI,Paid,62216.45
+2236,2236,Debit Card,Paid,85624.21
+2237,2237,Credit Card,Paid,75907.7
+2238,2238,Cash,Paid,84529.29
+2239,2239,Cash,Paid,21689.68
+2240,2240,Debit Card,Paid,81897.45
+2241,2241,Net Banking,Paid,82209.14
+2242,2242,UPI,Paid,27608.71
+2243,2243,Cash,Paid,42028.09
+2244,2244,Credit Card,Paid,40861.99
+2245,2245,UPI,Paid,48113.57
+2246,2246,Cash,Refunded,75985.82
+2247,2247,Cash,Paid,21596.17
+2248,2248,Credit Card,Paid,1167.42
+2249,2249,UPI,Paid,25687.99
+2250,2250,UPI,Paid,16331.29
+2251,2251,UPI,Paid,34425.43
+2252,2252,Credit Card,Paid,33906.81
+2253,2253,Cash,Paid,16261.98
+2254,2254,Debit Card,Paid,21239.24
+2255,2255,Credit Card,Paid,17065.13
+2256,2256,UPI,Paid,32676.85
+2257,2257,UPI,Paid,79599.8
+2258,2258,Debit Card,Paid,9155.92
+2259,2259,Credit Card,Paid,65381.53
+2260,2260,UPI,Paid,15321.64
+2261,2261,Net Banking,Paid,9405.8
+2262,2262,Net Banking,Paid,40300.29
+2263,2263,Cash,Paid,88853.28
+2264,2264,Cash,Paid,37205.68
+2265,2265,Debit Card,Paid,933.22
+2266,2266,Debit Card,Paid,17235.54
+2267,2267,Credit Card,Paid,67934.91
+2268,2268,UPI,Paid,70240.31
+2269,2269,Net Banking,Paid,55446.82
+2270,2270,Debit Card,Paid,61813.52
+2271,2271,Debit Card,Paid,19021.8
+2272,2272,Credit Card,Refunded,85104.52
+2273,2273,UPI,Paid,7261.05
+2274,2274,Net Banking,Paid,5740.18
+2275,2275,Cash,Paid,29214.97
+2276,2276,Cash,Paid,23573.37
+2277,2277,Net Banking,Paid,26421.84
+2278,2278,Cash,Paid,5886.94
+2279,2279,Net Banking,Paid,22770.15
+2280,2280,Credit Card,Refunded,4741.14
+2281,2281,Net Banking,Paid,89658.12
+2282,2282,UPI,Paid,24752.37
+2283,2283,Debit Card,Paid,30774.9
+2284,2284,UPI,Paid,29692.28
+2285,2285,Credit Card,Paid,44930.29
+2286,2286,Net Banking,Paid,41074.25
+2287,2287,Cash,Paid,22041
+2288,2288,Cash,Refunded,17109.62
+2289,2289,Debit Card,Paid,81727.41
+2290,2290,UPI,Paid,9982.22
+2291,2291,Net Banking,Paid,74429.61
+2292,2292,Cash,Paid,80616.59
+2293,2293,Cash,Paid,3083.76
+2294,2294,Debit Card,Refunded,3846.76
+2295,2295,UPI,Paid,4018.73
+2296,2296,Debit Card,Paid,60794.4
+2297,2297,UPI,Paid,77070.73
+2298,2298,Net Banking,Paid,64795.67
+2299,2299,Net Banking,Paid,24655.03
+2300,2300,Cash,Paid,51136.61
+2301,2301,UPI,Paid,36676.85
+2302,2302,Debit Card,Paid,14968.43
+2303,2303,Cash,Paid,74702.46
+2304,2304,Cash,Paid,2564.01
+2305,2305,Cash,Paid,61721.18
+2306,2306,Cash,Paid,88444.88
+2307,2307,Debit Card,Paid,5900.94
+2308,2308,Net Banking,Paid,73938.86
+2309,2309,Net Banking,Paid,45136.33
+2310,2310,Cash,Paid,39676.34
+2311,2311,Cash,Paid,77487.9
+2312,2312,Net Banking,Refunded,36099.8
+2313,2313,UPI,Paid,3799.25
+2314,2314,UPI,Paid,40651.59
+2315,2315,Net Banking,Paid,83899.15
+2316,2316,Credit Card,Refunded,68326.9
+2317,2317,Debit Card,Paid,59993.62
+2318,2318,Credit Card,Paid,63445.98
+2319,2319,Credit Card,Paid,27688.43
+2320,2320,Debit Card,Paid,39806.38
+2321,2321,UPI,Paid,77624.79
+2322,2322,Cash,Paid,55669
+2323,2323,Debit Card,Paid,58096.66
+2324,2324,Credit Card,Paid,47314.86
+2325,2325,Credit Card,Paid,32660.25
+2326,2326,Cash,Paid,88068.77
+2327,2327,Credit Card,Paid,54809.25
+2328,2328,Net Banking,Paid,56687.27
+2329,2329,Credit Card,Paid,80289.9
+2330,2330,Cash,Paid,63092.49
+2331,2331,Net Banking,Paid,22068.26
+2332,2332,Cash,Paid,17831.7
+2333,2333,Cash,Paid,27957.63
+2334,2334,Net Banking,Paid,25953.99
+2335,2335,Debit Card,Paid,22587.04
+2336,2336,Debit Card,Paid,65138.43
+2337,2337,UPI,Paid,12039.11
+2338,2338,Net Banking,Paid,49910.71
+2339,2339,Credit Card,Paid,36651.93
+2340,2340,Credit Card,Paid,42756.91
+2341,2341,UPI,Paid,74790.1
+2342,2342,UPI,Paid,84535.17
+2343,2343,Credit Card,Paid,76733.34
+2344,2344,UPI,Paid,22352.14
+2345,2345,UPI,Paid,23783.75
+2346,2346,Debit Card,Paid,33883.6
+2347,2347,Credit Card,Paid,79436.82
+2348,2348,Net Banking,Paid,87514.61
+2349,2349,Cash,Paid,15668.06
+2350,2350,Credit Card,Paid,37937.23
+2351,2351,Debit Card,Refunded,32990.01
+2352,2352,UPI,Paid,24191.1
+2353,2353,Debit Card,Paid,66695.63
+2354,2354,Credit Card,Paid,18543.7
+2355,2355,Debit Card,Paid,7839.53
+2356,2356,Debit Card,Paid,24082.86
+2357,2357,Debit Card,Paid,89248.91
+2358,2358,Cash,Paid,15253.04
+2359,2359,Debit Card,Paid,47973.63
+2360,2360,Debit Card,Paid,34257.32
+2361,2361,UPI,Paid,6991.11
+2362,2362,Net Banking,Paid,88089.61
+2363,2363,Debit Card,Paid,57858.82
+2364,2364,Cash,Paid,59558.29
+2365,2365,Net Banking,Paid,53782
+2366,2366,Credit Card,Paid,15865.59
+2367,2367,Cash,Paid,29291.82
+2368,2368,Debit Card,Paid,55763.4
+2369,2369,UPI,Paid,68891.22
+2370,2370,UPI,Paid,32603.98
+2371,2371,Debit Card,Paid,41985.18
+2372,2372,UPI,Paid,33361.98
+2373,2373,Debit Card,Paid,71785.29
+2374,2374,Credit Card,Paid,43365.6
+2375,2375,Cash,Paid,4669.89
+2376,2376,Credit Card,Paid,15685.01
+2377,2377,Cash,Refunded,89788.5
+2378,2378,Debit Card,Paid,8533.57
+2379,2379,Net Banking,Paid,81396.79
+2380,2380,Net Banking,Paid,48296.02
+2381,2381,UPI,Paid,84597.35
+2382,2382,Debit Card,Paid,88904.41
+2383,2383,Net Banking,Refunded,56981.82
+2384,2384,UPI,Paid,66353.4
+2385,2385,Cash,Paid,65367.82
+2386,2386,Net Banking,Paid,56511
+2387,2387,Credit Card,Paid,82208.18
+2388,2388,Cash,Paid,71968.47
+2389,2389,UPI,Paid,82183.69
+2390,2390,UPI,Refunded,34902.45
+2391,2391,UPI,Paid,76500.53
+2392,2392,UPI,Refunded,31694.67
+2393,2393,Credit Card,Paid,81065.15
+2394,2394,Net Banking,Paid,65525.1
+2395,2395,UPI,Paid,4255.76
+2396,2396,Credit Card,Paid,17096
+2397,2397,Cash,Paid,50345.59
+2398,2398,Cash,Paid,37581.47
+2399,2399,UPI,Paid,86584.59
+2400,2400,Net Banking,Refunded,83317.64
+2401,2401,Cash,Paid,80004.2
+2402,2402,UPI,Paid,49455.24
+2403,2403,Net Banking,Paid,76586.89
+2404,2404,Net Banking,Paid,55724.42
+2405,2405,UPI,Paid,45621.37
+2406,2406,Debit Card,Paid,83849.74
+2407,2407,Credit Card,Paid,7904.52
+2408,2408,Net Banking,Refunded,23387.72
+2409,2409,Credit Card,Paid,20288.57
+2410,2410,Net Banking,Paid,63588.43
+2411,2411,Cash,Paid,6375.35
+2412,2412,Debit Card,Paid,33328.8
+2413,2413,Cash,Paid,66666.12
+2414,2414,Net Banking,Paid,24811.47
+2415,2415,Net Banking,Paid,62868.36
+2416,2416,Credit Card,Paid,63298.79
+2417,2417,Debit Card,Refunded,53495.1
+2418,2418,Cash,Paid,45052.45
+2419,2419,Credit Card,Paid,57825.72
+2420,2420,Net Banking,Paid,35278.76
+2421,2421,UPI,Paid,28275.9
+2422,2422,Debit Card,Paid,33396.77
+2423,2423,Debit Card,Paid,65759.77
+2424,2424,Credit Card,Paid,698.44
+2425,2425,Debit Card,Paid,51411.11
+2426,2426,UPI,Paid,87585.68
+2427,2427,Cash,Paid,78749.17
+2428,2428,Net Banking,Paid,57050.8
+2429,2429,Cash,Refunded,38470.48
+2430,2430,Net Banking,Paid,37897.2
+2431,2431,Net Banking,Paid,81676
+2432,2432,Credit Card,Paid,29600.81
+2433,2433,Debit Card,Paid,8110.41
+2434,2434,Credit Card,Paid,11918.9
+2435,2435,Debit Card,Paid,34358.16
+2436,2436,Credit Card,Paid,82364.41
+2437,2437,Debit Card,Paid,76958.1
+2438,2438,Cash,Paid,5761.41
+2439,2439,Debit Card,Paid,57098.26
+2440,2440,Debit Card,Paid,21864.12
+2441,2441,Net Banking,Paid,57789.61
+2442,2442,Debit Card,Paid,68811.51
+2443,2443,Net Banking,Paid,3714.64
+2444,2444,Debit Card,Paid,82926.98
+2445,2445,Debit Card,Paid,41449.64
+2446,2446,Debit Card,Paid,50543.74
+2447,2447,Debit Card,Paid,65549.61
+2448,2448,Debit Card,Paid,7121.55
+2449,2449,Debit Card,Paid,84457.56
+2450,2450,UPI,Paid,37911.99
+2451,2451,Debit Card,Paid,7681.5
+2452,2452,Net Banking,Paid,69625.39
+2453,2453,Credit Card,Paid,53132.27
+2454,2454,Net Banking,Paid,56018.55
+2455,2455,Cash,Paid,29699.65
+2456,2456,Cash,Paid,35947.54
+2457,2457,UPI,Paid,85533.73
+2458,2458,Cash,Paid,13056.16
+2459,2459,UPI,Refunded,30745.89
+2460,2460,UPI,Paid,5578.84
+2461,2461,Credit Card,Paid,31021.23
+2462,2462,Debit Card,Paid,25673.31
+2463,2463,Cash,Paid,42439.76
+2464,2464,Credit Card,Paid,30861.57
+2465,2465,Net Banking,Paid,60911.63
+2466,2466,Credit Card,Paid,33947.91
+2467,2467,Debit Card,Paid,55467.92
+2468,2468,Credit Card,Paid,12036.44
+2469,2469,Debit Card,Refunded,2252.37
+2470,2470,Credit Card,Paid,12924.14
+2471,2471,UPI,Paid,18643.03
+2472,2472,Cash,Paid,6484.62
+2473,2473,Cash,Paid,44793.56
+2474,2474,Debit Card,Paid,16406.36
+2475,2475,Credit Card,Paid,89695.02
+2476,2476,UPI,Paid,59413.35
+2477,2477,Cash,Paid,26030.93
+2478,2478,Net Banking,Paid,6216.32
+2479,2479,Credit Card,Paid,4629.79
+2480,2480,Debit Card,Paid,5785.63
+2481,2481,Debit Card,Paid,25539.01
+2482,2482,Net Banking,Paid,22707.15
+2483,2483,UPI,Paid,5163.67
+2484,2484,UPI,Paid,56852.37
+2485,2485,Cash,Paid,20259.88
+2486,2486,UPI,Paid,4630.66
+2487,2487,Net Banking,Paid,3117.93
+2488,2488,Net Banking,Paid,43851.4
+2489,2489,Net Banking,Paid,45030.76
+2490,2490,Debit Card,Paid,41106.27
+2491,2491,Debit Card,Paid,68942.45
+2492,2492,Cash,Paid,32330.12
+2493,2493,Cash,Paid,79740.58
+2494,2494,Debit Card,Paid,10241.16
+2495,2495,UPI,Paid,18423.2
+2496,2496,Net Banking,Refunded,9976.72
+2497,2497,Debit Card,Paid,56296.29
+2498,2498,Cash,Paid,18726.49
+2499,2499,Credit Card,Paid,55758.72
+2500,2500,UPI,Paid,62295.93
+2501,2501,UPI,Paid,18758.02
+2502,2502,Debit Card,Paid,28225.95
+2503,2503,Net Banking,Paid,30471.6
+2504,2504,UPI,Paid,2348.57
+2505,2505,Net Banking,Paid,39065.17
+2506,2506,UPI,Paid,1574.26
+2507,2507,Debit Card,Paid,28988.41
+2508,2508,Net Banking,Paid,27722.16
+2509,2509,Net Banking,Paid,14399.63
+2510,2510,Credit Card,Paid,86338.78
+2511,2511,Credit Card,Paid,66208.02
+2512,2512,Cash,Paid,40948.98
+2513,2513,Cash,Refunded,40988.97
+2514,2514,Debit Card,Paid,25584.06
+2515,2515,Debit Card,Paid,74307.25
+2516,2516,Credit Card,Refunded,15345.27
+2517,2517,Debit Card,Paid,66725.27
+2518,2518,Net Banking,Paid,45800.08
+2519,2519,Cash,Paid,69226.41
+2520,2520,Cash,Paid,16512.08
+2521,2521,Cash,Paid,54351.96
+2522,2522,Cash,Paid,85848.42
+2523,2523,Debit Card,Paid,32433.81
+2524,2524,Cash,Refunded,56357.18
+2525,2525,Net Banking,Paid,25083.98
+2526,2526,Debit Card,Paid,59215.98
+2527,2527,Credit Card,Paid,39100.54
+2528,2528,UPI,Paid,21671.61
+2529,2529,Credit Card,Paid,23427.13
+2530,2530,Cash,Paid,27493.36
+2531,2531,Debit Card,Paid,33998.57
+2532,2532,UPI,Paid,23231.43
+2533,2533,Net Banking,Paid,45338.95
+2534,2534,UPI,Paid,54040.73
+2535,2535,Net Banking,Paid,11506.67
+2536,2536,Cash,Refunded,40792.99
+2537,2537,Net Banking,Paid,61212.58
+2538,2538,Debit Card,Paid,13149.77
+2539,2539,Cash,Paid,81361.68
+2540,2540,Debit Card,Refunded,62881.79
+2541,2541,UPI,Paid,60043.01
+2542,2542,Debit Card,Paid,74630.41
+2543,2543,Credit Card,Paid,63184.5
+2544,2544,Debit Card,Paid,9794.38
+2545,2545,Cash,Paid,1428.14
+2546,2546,UPI,Paid,11736.99
+2547,2547,Net Banking,Paid,34865.1
+2548,2548,Debit Card,Paid,29328.15
+2549,2549,Cash,Paid,26185.74
+2550,2550,Credit Card,Paid,64133.26
+2551,2551,Net Banking,Paid,78267.6
+2552,2552,Debit Card,Paid,44242.76
+2553,2553,UPI,Paid,82862.22
+2554,2554,Cash,Paid,38234.58
+2555,2555,Debit Card,Refunded,84217.66
+2556,2556,Debit Card,Paid,66921.59
+2557,2557,Net Banking,Paid,33023.07
+2558,2558,Cash,Paid,7561.29
+2559,2559,UPI,Paid,88723
+2560,2560,Credit Card,Paid,51040.88
+2561,2561,UPI,Paid,35104.46
+2562,2562,Debit Card,Paid,30944.67
+2563,2563,UPI,Paid,11011.84
+2564,2564,Net Banking,Paid,19951.79
+2565,2565,Debit Card,Paid,88578.76
+2566,2566,Cash,Paid,81595.04
+2567,2567,Net Banking,Paid,13628.59
+2568,2568,Credit Card,Paid,6343.63
+2569,2569,Cash,Paid,57819.15
+2570,2570,Debit Card,Paid,40759.14
+2571,2571,Net Banking,Paid,50356.46
+2572,2572,Cash,Paid,52302.13
+2573,2573,Cash,Paid,43511.62
+2574,2574,Credit Card,Paid,56584.33
+2575,2575,Credit Card,Paid,7949.13
+2576,2576,UPI,Paid,5543.43
+2577,2577,Cash,Paid,23610.41
+2578,2578,Credit Card,Paid,78792.3
+2579,2579,UPI,Paid,68644.02
+2580,2580,UPI,Paid,38149.48
+2581,2581,Debit Card,Paid,84733.84
+2582,2582,UPI,Paid,36661.38
+2583,2583,UPI,Paid,10220.48
+2584,2584,Cash,Paid,67857.18
+2585,2585,UPI,Paid,77644.6
+2586,2586,Debit Card,Paid,75365.88
+2587,2587,Net Banking,Paid,20592.13
+2588,2588,UPI,Paid,70994.08
+2589,2589,Net Banking,Paid,37366.55
+2590,2590,Net Banking,Paid,18785.83
+2591,2591,Debit Card,Paid,41093.21
+2592,2592,Debit Card,Paid,15208.26
+2593,2593,Debit Card,Refunded,72094.77
+2594,2594,UPI,Paid,79224.57
+2595,2595,Net Banking,Paid,19772.79
+2596,2596,Credit Card,Paid,18530.58
+2597,2597,Net Banking,Paid,27975.86
+2598,2598,Net Banking,Paid,27623.16
+2599,2599,Credit Card,Paid,18869.58
+2600,2600,Debit Card,Paid,61610.91
+2601,2601,Cash,Paid,75563.03
+2602,2602,UPI,Paid,46482.23
+2603,2603,Cash,Paid,86891.16
+2604,2604,Cash,Paid,596.54
+2605,2605,Net Banking,Paid,29857.51
+2606,2606,Cash,Paid,87002.55
+2607,2607,UPI,Paid,30335.22
+2608,2608,Credit Card,Paid,64002.34
+2609,2609,Net Banking,Refunded,45375.74
+2610,2610,Credit Card,Refunded,71626.64
+2611,2611,Net Banking,Paid,57488.04
+2612,2612,Cash,Paid,20799.61
+2613,2613,UPI,Paid,27543.55
+2614,2614,Debit Card,Paid,58608.95
+2615,2615,UPI,Paid,52461.67
+2616,2616,Net Banking,Paid,17566.77
+2617,2617,Cash,Paid,55116.61
+2618,2618,Credit Card,Paid,25243.72
+2619,2619,Credit Card,Paid,44303.94
+2620,2620,Credit Card,Paid,60066.63
+2621,2621,Debit Card,Paid,14230.45
+2622,2622,Debit Card,Paid,11615.15
+2623,2623,Cash,Paid,37485.22
+2624,2624,Credit Card,Refunded,56932.94
+2625,2625,Net Banking,Paid,5189.96
+2626,2626,UPI,Paid,50123.77
+2627,2627,Net Banking,Paid,11584.41
+2628,2628,Cash,Paid,29879.72
+2629,2629,UPI,Paid,26502.26
+2630,2630,Cash,Paid,45194.61
+2631,2631,Cash,Paid,86071.16
+2632,2632,UPI,Paid,80981.65
+2633,2633,Net Banking,Paid,29722.15
+2634,2634,Cash,Paid,39922.04
+2635,2635,UPI,Paid,8306.05
+2636,2636,Net Banking,Paid,36916.4
+2637,2637,Credit Card,Paid,75571.31
+2638,2638,Net Banking,Paid,86304.97
+2639,2639,Debit Card,Paid,10034.32
+2640,2640,Cash,Paid,59192.44
+2641,2641,Credit Card,Refunded,60076.97
+2642,2642,Debit Card,Paid,50776.27
+2643,2643,Debit Card,Paid,52361.99
+2644,2644,Net Banking,Paid,66709.73
+2645,2645,Net Banking,Paid,75078.92
+2646,2646,Cash,Paid,7191.13
+2647,2647,Debit Card,Paid,48384.2
+2648,2648,UPI,Paid,1776.08
+2649,2649,UPI,Paid,63720.94
+2650,2650,Net Banking,Paid,62860.33
+2651,2651,Credit Card,Paid,67109.84
+2652,2652,Debit Card,Paid,85164.24
+2653,2653,Credit Card,Paid,86346.87
+2654,2654,UPI,Refunded,34711
+2655,2655,Credit Card,Paid,52251.86
+2656,2656,Net Banking,Refunded,57449.46
+2657,2657,Credit Card,Paid,9815
+2658,2658,Net Banking,Paid,37055.71
+2659,2659,Net Banking,Paid,48281.25
+2660,2660,UPI,Paid,12482.35
+2661,2661,Credit Card,Paid,81243.6
+2662,2662,UPI,Paid,49687.08
+2663,2663,Cash,Paid,14467.51
+2664,2664,Net Banking,Paid,55717.15
+2665,2665,Credit Card,Paid,38746.35
+2666,2666,Net Banking,Paid,84999.95
+2667,2667,Cash,Paid,20352
+2668,2668,Debit Card,Paid,20373.85
+2669,2669,UPI,Refunded,38021.31
+2670,2670,Debit Card,Paid,52263.68
+2671,2671,Net Banking,Paid,36685.18
+2672,2672,Credit Card,Paid,72555.94
+2673,2673,UPI,Paid,53129.11
+2674,2674,Net Banking,Paid,28792.91
+2675,2675,Net Banking,Paid,18350.04
+2676,2676,Cash,Paid,22837.81
+2677,2677,Debit Card,Paid,85180.71
+2678,2678,Cash,Paid,88899.69
+2679,2679,UPI,Paid,44715.34
+2680,2680,Cash,Paid,68028.28
+2681,2681,Credit Card,Paid,38759.33
+2682,2682,Credit Card,Paid,29947.27
+2683,2683,Net Banking,Paid,87094.82
+2684,2684,Debit Card,Paid,75569.08
+2685,2685,Cash,Paid,24709.34
+2686,2686,Cash,Paid,80544.38
+2687,2687,UPI,Refunded,29701.8
+2688,2688,Net Banking,Paid,76492.62
+2689,2689,Net Banking,Paid,11256.87
+2690,2690,UPI,Refunded,69240.41
+2691,2691,UPI,Paid,6609.46
+2692,2692,Net Banking,Paid,86965.99
+2693,2693,Debit Card,Paid,19104.25
+2694,2694,Credit Card,Paid,23409.69
+2695,2695,Debit Card,Paid,56883.13
+2696,2696,Cash,Paid,22187.84
+2697,2697,UPI,Paid,21108.35
+2698,2698,Credit Card,Paid,50036.16
+2699,2699,Cash,Paid,9925.93
+2700,2700,Credit Card,Refunded,34203.29
+2701,2701,UPI,Paid,13167.61
+2702,2702,Cash,Paid,31708.71
+2703,2703,Credit Card,Paid,57474.88
+2704,2704,UPI,Refunded,32454.03
+2705,2705,UPI,Paid,86992.81
+2706,2706,Debit Card,Paid,17909.81
+2707,2707,Debit Card,Refunded,77425.75
+2708,2708,UPI,Paid,15194.88
+2709,2709,Net Banking,Paid,74364.53
+2710,2710,Cash,Paid,56043.85
+2711,2711,Credit Card,Paid,3560.72
+2712,2712,Net Banking,Paid,22447.16
+2713,2713,Net Banking,Paid,61240.51
+2714,2714,Net Banking,Refunded,76776.79
+2715,2715,Cash,Paid,74875.76
+2716,2716,UPI,Paid,52078.3
+2717,2717,Debit Card,Paid,80513.66
+2718,2718,Cash,Paid,1797.55
+2719,2719,Credit Card,Paid,73684.12
+2720,2720,Credit Card,Paid,48177.65
+2721,2721,Credit Card,Paid,2214.84
+2722,2722,Cash,Paid,36849.79
+2723,2723,Net Banking,Paid,59906.48
+2724,2724,Net Banking,Paid,63596.26
+2725,2725,UPI,Paid,22039.32
+2726,2726,Debit Card,Paid,42631.56
+2727,2727,UPI,Paid,50463.87
+2728,2728,UPI,Paid,20254.84
+2729,2729,Net Banking,Paid,7267.81
+2730,2730,Net Banking,Paid,5366.29
+2731,2731,UPI,Paid,36717.46
+2732,2732,Cash,Paid,53484.53
+2733,2733,UPI,Paid,49874.66
+2734,2734,Credit Card,Refunded,78749.1
+2735,2735,Net Banking,Paid,47900.75
+2736,2736,UPI,Paid,28967.2
+2737,2737,Credit Card,Paid,32369.7
+2738,2738,Credit Card,Paid,21668.97
+2739,2739,Net Banking,Paid,37762.82
+2740,2740,Credit Card,Paid,47828.84
+2741,2741,Credit Card,Paid,24186.07
+2742,2742,Net Banking,Paid,34207.05
+2743,2743,Debit Card,Paid,6053.75
+2744,2744,Debit Card,Paid,51984.03
+2745,2745,Debit Card,Paid,62911.81
+2746,2746,Credit Card,Paid,28677.04
+2747,2747,Debit Card,Paid,32183.33
+2748,2748,Cash,Paid,61109.68
+2749,2749,Debit Card,Paid,48006.37
+2750,2750,Cash,Paid,12812.78
+2751,2751,UPI,Refunded,51738.01
+2752,2752,UPI,Paid,73528.57
+2753,2753,UPI,Paid,68642.21
+2754,2754,Credit Card,Paid,28526.29
+2755,2755,Debit Card,Paid,70924.98
+2756,2756,Debit Card,Paid,6988.72
+2757,2757,UPI,Paid,66321.76
+2758,2758,Net Banking,Refunded,58516.14
+2759,2759,Cash,Paid,67656.3
+2760,2760,Credit Card,Paid,1129.32
+2761,2761,UPI,Paid,45509.24
+2762,2762,Net Banking,Paid,77395.45
+2763,2763,Net Banking,Refunded,29327.9
+2764,2764,UPI,Paid,29007.43
+2765,2765,Debit Card,Paid,22601.58
+2766,2766,Credit Card,Paid,34100.97
+2767,2767,Credit Card,Paid,70035.08
+2768,2768,Debit Card,Paid,27268.6
+2769,2769,Net Banking,Paid,12715.08
+2770,2770,Debit Card,Refunded,5107.61
+2771,2771,Credit Card,Paid,65105.32
+2772,2772,UPI,Paid,36397.84
+2773,2773,Credit Card,Paid,74202.7
+2774,2774,Credit Card,Paid,86547.83
+2775,2775,Cash,Paid,41919.66
+2776,2776,Credit Card,Paid,67345.46
+2777,2777,Net Banking,Paid,64458.51
+2778,2778,Debit Card,Paid,52326.5
+2779,2779,Credit Card,Paid,43481.72
+2780,2780,Net Banking,Paid,85754.91
+2781,2781,Debit Card,Paid,2505.32
+2782,2782,Cash,Paid,58735.29
+2783,2783,Credit Card,Paid,68240.97
+2784,2784,Credit Card,Paid,37364.77
+2785,2785,Credit Card,Paid,82645.2
+2786,2786,Debit Card,Paid,16343.12
+2787,2787,Credit Card,Paid,8397.79
+2788,2788,Credit Card,Paid,84004.38
+2789,2789,Net Banking,Paid,46085.45
+2790,2790,Cash,Paid,16933.05
+2791,2791,Cash,Paid,22788.31
+2792,2792,Debit Card,Paid,32639.61
+2793,2793,Credit Card,Paid,6078.85
+2794,2794,Credit Card,Paid,28851.29
+2795,2795,UPI,Paid,7972.78
+2796,2796,Credit Card,Paid,80181.46
+2797,2797,Credit Card,Paid,2810.71
+2798,2798,Credit Card,Paid,45606.24
+2799,2799,Cash,Paid,29576.6
+2800,2800,Cash,Paid,1113.72
+2801,2801,Net Banking,Paid,73255.18
+2802,2802,Cash,Paid,32617.97
+2803,2803,Credit Card,Paid,52703.93
+2804,2804,Debit Card,Paid,8586.35
+2805,2805,Cash,Paid,5653.53
+2806,2806,Net Banking,Paid,36878.14
+2807,2807,Debit Card,Paid,26507.84
+2808,2808,Cash,Refunded,39611.38
+2809,2809,Credit Card,Paid,74213.3
+2810,2810,Debit Card,Paid,19217.77
+2811,2811,Cash,Paid,49130.43
+2812,2812,Net Banking,Paid,71290.76
+2813,2813,Credit Card,Paid,42174.72
+2814,2814,Credit Card,Refunded,35545.97
+2815,2815,Debit Card,Paid,22194.6
+2816,2816,Credit Card,Paid,35053.81
+2817,2817,Credit Card,Paid,67056.51
+2818,2818,Credit Card,Refunded,46419.21
+2819,2819,Cash,Paid,63179.59
+2820,2820,Debit Card,Paid,4704.4
+2821,2821,Debit Card,Paid,70525.19
+2822,2822,Net Banking,Paid,51515.4
+2823,2823,Credit Card,Paid,72689.19
+2824,2824,Credit Card,Paid,77302.75
+2825,2825,UPI,Refunded,84867.82
+2826,2826,Net Banking,Paid,35120.57
+2827,2827,Credit Card,Paid,39008.5
+2828,2828,Debit Card,Paid,47317.29
+2829,2829,UPI,Paid,27750.63
+2830,2830,Cash,Paid,48147.94
+2831,2831,Net Banking,Paid,82266.79
+2832,2832,Debit Card,Paid,13958.04
+2833,2833,UPI,Paid,7112.94
+2834,2834,UPI,Paid,46177.08
+2835,2835,Net Banking,Paid,3563.74
+2836,2836,UPI,Paid,67346.9
+2837,2837,UPI,Paid,16684.25
+2838,2838,UPI,Paid,26868.62
+2839,2839,Debit Card,Paid,39965.12
+2840,2840,Cash,Paid,18172.87
+2841,2841,Net Banking,Paid,9803.92
+2842,2842,Debit Card,Paid,80241.36
+2843,2843,Net Banking,Paid,25187.83
+2844,2844,Cash,Paid,35180.88
+2845,2845,Credit Card,Paid,26123.76
+2846,2846,UPI,Paid,76398.79
+2847,2847,Credit Card,Refunded,38922.44
+2848,2848,Credit Card,Paid,82032.42
+2849,2849,Debit Card,Paid,69744.56
+2850,2850,UPI,Paid,24167.09
+2851,2851,UPI,Paid,41644.08
+2852,2852,Cash,Paid,61925.41
+2853,2853,Credit Card,Refunded,46568.14
+2854,2854,Debit Card,Refunded,59611.73
+2855,2855,Net Banking,Paid,57590.85
+2856,2856,Cash,Paid,39204.78
+2857,2857,Credit Card,Paid,30781.68
+2858,2858,UPI,Paid,69925.43
+2859,2859,Debit Card,Paid,23148.78
+2860,2860,UPI,Paid,32307.81
+2861,2861,Cash,Paid,15612.2
+2862,2862,Cash,Paid,62641.53
+2863,2863,Credit Card,Refunded,16246.25
+2864,2864,Cash,Paid,45835.78
+2865,2865,Credit Card,Paid,6778.58
+2866,2866,Debit Card,Paid,4566.01
+2867,2867,Net Banking,Paid,12740.65
+2868,2868,Credit Card,Paid,49414.63
+2869,2869,Debit Card,Paid,37709.88
+2870,2870,UPI,Paid,86847.99
+2871,2871,Credit Card,Paid,43107.22
+2872,2872,UPI,Paid,25286.61
+2873,2873,Credit Card,Paid,21082.04
+2874,2874,Credit Card,Paid,5159.67
+2875,2875,Credit Card,Paid,33074.11
+2876,2876,Credit Card,Paid,43925.05
+2877,2877,Credit Card,Paid,71012.95
+2878,2878,UPI,Paid,45672.8
+2879,2879,Credit Card,Paid,68353.83
+2880,2880,Debit Card,Paid,43520.27
+2881,2881,Debit Card,Paid,19180.66
+2882,2882,Debit Card,Paid,14146.08
+2883,2883,Credit Card,Refunded,66442.75
+2884,2884,Debit Card,Paid,88684.98
+2885,2885,Net Banking,Paid,73955.45
+2886,2886,Cash,Paid,59085.85
+2887,2887,UPI,Paid,58501.8
+2888,2888,Debit Card,Refunded,30143.18
+2889,2889,Net Banking,Paid,84380.64
+2890,2890,UPI,Paid,59572.94
+2891,2891,Credit Card,Paid,75313.22
+2892,2892,Credit Card,Paid,82044.09
+2893,2893,Net Banking,Paid,9698.11
+2894,2894,Cash,Paid,23006.19
+2895,2895,UPI,Paid,62271.26
+2896,2896,Debit Card,Paid,42608.4
+2897,2897,Credit Card,Refunded,76913.67
+2898,2898,Cash,Paid,63989.26
+2899,2899,Debit Card,Paid,61260.22
+2900,2900,Debit Card,Paid,82407.5
+2901,2901,Credit Card,Paid,60776.5
+2902,2902,Cash,Paid,43254
+2903,2903,UPI,Paid,34238.94
+2904,2904,Net Banking,Paid,39990.75
+2905,2905,Net Banking,Paid,65746.13
+2906,2906,Cash,Paid,23919.49
+2907,2907,Net Banking,Refunded,9774.45
+2908,2908,Credit Card,Paid,46653.19
+2909,2909,Cash,Paid,32196.44
+2910,2910,Debit Card,Paid,61150.75
+2911,2911,Credit Card,Paid,725.82
+2912,2912,UPI,Paid,69702.22
+2913,2913,Debit Card,Paid,12564.89
+2914,2914,Credit Card,Paid,43638.66
+2915,2915,Cash,Paid,62187.7
+2916,2916,UPI,Paid,26283.32
+2917,2917,Net Banking,Paid,19767.45
+2918,2918,UPI,Paid,17907.98
+2919,2919,Cash,Paid,41556.01
+2920,2920,Net Banking,Paid,6314.91
+2921,2921,Cash,Paid,34876.99
+2922,2922,Credit Card,Paid,74747.78
+2923,2923,Credit Card,Paid,68101.16
+2924,2924,Debit Card,Paid,86081.77
+2925,2925,Net Banking,Paid,21857.55
+2926,2926,Debit Card,Paid,4046.47
+2927,2927,Cash,Paid,17182.08
+2928,2928,Debit Card,Paid,75350.42
+2929,2929,UPI,Refunded,63522
+2930,2930,Net Banking,Paid,23080.11
+2931,2931,Debit Card,Paid,75268.35
+2932,2932,Net Banking,Paid,24728.41
+2933,2933,Cash,Refunded,77102.38
+2934,2934,Net Banking,Refunded,85762.96
+2935,2935,Debit Card,Refunded,41456.24
+2936,2936,Debit Card,Paid,33004.08
+2937,2937,Credit Card,Paid,51874.28
+2938,2938,UPI,Paid,54981.02
+2939,2939,Debit Card,Paid,59800.12
+2940,2940,Net Banking,Paid,2204.96
+2941,2941,Cash,Paid,48866.7
+2942,2942,UPI,Refunded,8962.42
+2943,2943,Net Banking,Paid,26612.41
+2944,2944,Cash,Paid,86983.93
+2945,2945,UPI,Paid,57629.71
+2946,2946,Credit Card,Paid,42799.92
+2947,2947,Cash,Paid,72518.98
+2948,2948,Net Banking,Paid,59523.18
+2949,2949,Net Banking,Paid,72228.33
+2950,2950,UPI,Paid,85774.02
+2951,2951,Credit Card,Paid,35032.34
+2952,2952,UPI,Paid,21074.45
+2953,2953,Debit Card,Paid,10948.71
+2954,2954,Net Banking,Paid,39736.94
+2955,2955,Credit Card,Paid,40598.06
+2956,2956,Credit Card,Paid,34837.65
+2957,2957,Credit Card,Refunded,49564.74
+2958,2958,UPI,Paid,75739.18
+2959,2959,Cash,Paid,15212.3
+2960,2960,Cash,Paid,56254.21
+2961,2961,Debit Card,Paid,33222.73
+2962,2962,UPI,Paid,52097.45
+2963,2963,Cash,Paid,56319.5
+2964,2964,Debit Card,Paid,26510.65
+2965,2965,Debit Card,Paid,61061.64
+2966,2966,Credit Card,Paid,78847.4
+2967,2967,Credit Card,Paid,5835.54
+2968,2968,UPI,Paid,41179.26
+2969,2969,Net Banking,Paid,47806.22
+2970,2970,UPI,Refunded,87393.57
+2971,2971,Debit Card,Paid,39338.08
+2972,2972,UPI,Paid,23197.63
+2973,2973,UPI,Paid,24607.21
+2974,2974,UPI,Paid,5602.15
+2975,2975,UPI,Paid,70655.64
+2976,2976,UPI,Paid,13665.05
+2977,2977,UPI,Paid,4867.18
+2978,2978,Net Banking,Paid,40174.61
+2979,2979,Credit Card,Paid,14553.95
+2980,2980,Debit Card,Paid,16128.91
+2981,2981,Net Banking,Paid,67499.49
+2982,2982,Debit Card,Paid,83176.61
+2983,2983,Cash,Paid,89541.58
+2984,2984,Debit Card,Paid,74108.14
+2985,2985,Cash,Paid,10607.19
+2986,2986,Net Banking,Paid,43395.52
+2987,2987,Debit Card,Paid,36885.53
+2988,2988,Debit Card,Paid,89263.37
+2989,2989,Cash,Paid,45933
+2990,2990,Credit Card,Paid,63291.5
+2991,2991,UPI,Paid,85941.04
+2992,2992,Debit Card,Paid,81950.2
+2993,2993,Credit Card,Paid,17120.03
+2994,2994,UPI,Paid,32108.18
+2995,2995,Net Banking,Paid,71709.71
+2996,2996,Credit Card,Paid,41525.28
+2997,2997,UPI,Refunded,64409.97
+2998,2998,UPI,Paid,42949.11
+2999,2999,Credit Card,Paid,23369.49
+3000,3000,UPI,Paid,31712.43
